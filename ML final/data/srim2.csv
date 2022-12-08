@@ -1,0 +1,999 @@
+team1,team1_id,team2,team2_id,win_toss,bat_or_bowl,outcome,win_game,date,day_n_night,hm,dn,ts,bf,africa,america,asia,europe,oceania,win_game,logit,e^L,p(x),ll,,,,,,,bo,-0.312627263,home_team_id
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 2 wickets (with 5 balls remaining),8,4/13/1983,day match,1,1,0,0,0,0,0,0,1,1,0.654397406,1.923982787,0.658000723,-0.418549249,,,,,,,b1,0.001,8
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 4 wickets (with 10 balls remaining),8,4/16/1983,day match,1,1,1,0,0,0,0,0,1,1,0.624584484,1.867469832,0.651260498,-0.428845566,,,,,,,b2,0.001,8
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 4 wickets (with 4 balls remaining),8,8/15/1992,day match,1,1,1,0,0,0,0,0,1,1,0.624584484,1.867469832,0.651260498,-0.428845566,,,,,,,b3,0.685688473,8
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 5 wickets (with 7 balls remaining) (revised target),8,09-04-92,day match,1,1,1,0,0,0,0,0,1,1,0.624584484,1.867469832,0.651260498,-0.428845566,,,,,,,b4,1.271142777,8
+Sri Lanka,8,Australia,2,2,field,Australia won by 5 wickets (with 13 balls remaining),2,09-05-92,day/night match,1,0,0,1,0,0,0,0,1,0,0.769460905,2.158602249,0.683404265,-1.150129603,,,,,,,b5,0.995896317,8
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 6 wickets (with 8 balls remaining) (revised target),8,9/13/1994,day match,1,1,1,1,0,0,0,0,1,1,0.710776335,2.03557093,0.670572679,-0.399623187,,,,,,,b6,-0.028871648,8
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 4 wickets (with 25 balls remaining),8,8/30/1996,day/night match,1,0,0,0,0,0,0,0,1,1,0.683269054,1.980341004,0.664467925,-0.408768671,,,,,,,b7,-0.029812922,8
+Sri Lanka,8,Australia,2,2,field,Sri Lanka won by 50 runs,8,09-07-96,day match,1,1,0,1,0,0,0,0,1,1,0.740589257,2.097170923,0.677124697,-0.389899832,,,,,,,b8,0.086191851,8
+Sri Lanka,8,Australia,2,8,field,Australia won by 50 runs (D/L method),2,8/22/1999,day match,1,1,1,0,0,0,0,0,1,0,0.624584484,1.867469832,0.651260498,-1.053430049,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,bat,Australia won by 27 runs,2,8/26/1999,day/night match,1,0,0,0,0,0,0,0,1,0,0.683269054,1.980341004,0.664467925,-1.092037725,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 8 wickets (with 63 balls remaining),8,8/31/1999,day/night match,1,0,0,0,0,0,0,0,1,1,0.683269054,1.980341004,0.664467925,-0.408768671,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 7 wickets (with 60 balls remaining),8,9/27/2002,day/night match,1,0,0,0,0,0,0,0,1,1,0.683269054,1.980341004,0.664467925,-0.408768671,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,bat,Australia won by 84 runs,2,2/20/2004,day/night match,1,0,0,0,0,0,0,0,1,0,0.683269054,1.980341004,0.664467925,-1.092037725,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,bat,Sri Lanka won by 1 run,8,2/22/2004,day match,1,1,1,1,0,0,0,0,1,1,0.710776335,2.03557093,0.670572679,-0.399623187,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,bat,Australia won by 5 wickets (with 9 balls remaining),2,2/25/2004,day/night match,1,0,1,1,0,0,0,0,1,0,0.739647983,2.09519784,0.676918875,-1.129851826,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,bat,Australia won by 40 runs,2,2/27/2004,day/night match,1,0,0,0,0,0,0,0,1,0,0.683269054,1.980341004,0.664467925,-1.092037725,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 3 wickets (with 13 balls remaining),8,2/29/2004,day match,1,1,0,0,0,0,0,0,1,1,0.654397406,1.923982787,0.658000723,-0.418549249,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,bat,Australia won by 7 wickets (with 71 balls remaining),2,08-10-11,day/night match,1,0,1,1,0,0,0,0,1,0,0.739647983,2.09519784,0.676918875,-1.129851826,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,bat,Australia won by 8 wickets (with 70 balls remaining),2,8/14/2011,day/night match,1,0,1,1,0,0,0,0,1,0,0.739647983,2.09519784,0.676918875,-1.129851826,,,,,,,,,8
+Sri Lanka,8,Australia,2,2,field,Sri Lanka won by 78 runs,8,8/16/2011,day/night match,1,0,0,1,0,0,0,0,1,1,0.769460905,2.158602249,0.683404265,-0.380668698,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,bat,Australia won by 5 wickets (with 132 balls remaining),2,8/20/2011,day/night match,1,0,1,1,0,0,0,0,1,0,0.739647983,2.09519784,0.676918875,-1.129851826,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 4 wickets (with 18 balls remaining),8,8/22/2011,day/night match,1,0,1,0,0,0,0,0,1,1,0.653456132,1.922172644,0.657788871,-0.418871264,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,8,field,Sri Lanka won by 7 wickets (with 81 balls remaining),8,04-02-86,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,field,Sri Lanka won by 103 runs,8,7/22/1997,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,bat,Sri Lanka won by 5 wickets (with 32 balls remaining),8,08-04-02,day match,1,1,0,0,0,0,1,0,0,1,0.344189561,1.410846052,0.585207857,-0.535788184,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,bat,Sri Lanka won by 8 wickets (with 206 balls remaining),8,08-05-02,day match,1,1,0,0,0,0,1,0,0,1,0.344189561,1.410846052,0.585207857,-0.535788184,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,field,Sri Lanka won by 58 runs,8,08-07-02,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,bat,Sri Lanka won by 10 wickets (with 99 balls remaining),8,7/23/2004,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,field,Sri Lanka won by 88 runs,8,8/31/2005,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,field,Sri Lanka won by 75 runs,8,09-02-05,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,8,field,Sri Lanka won by 6 wickets (with 148 balls remaining) (D/L method),8,09-04-05,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,field,Sri Lanka won by 70 runs,8,7/20/2007,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,8,field,Sri Lanka won by 5 wickets (with 113 balls remaining),8,7/23/2007,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,25,field,Sri Lanka won by 39 runs,8,7/25/2007,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,8,bat,Sri Lanka won by 126 runs,8,6/18/2010,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,8,field,Sri Lanka won by 8 wickets (with 32 balls remaining) (D/L method),8,3/23/2013,day/night match,1,0,1,0,0,0,1,0,0,1,0.343248287,1.409518684,0.584979354,-0.536178724,,,,,,,,,8
+Sri Lanka,8,Bangladesh,25,8,bat,Bangladesh won by 3 wickets (with 6 balls remaining) (D/L method),25,3/28/2013,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,Canada,17,8,bat,Sri Lanka won by 210 runs,8,2/20/2011,day/night match,1,0,1,1,0,1,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,England,1,8,field,England won by 5 runs,1,2/13/1982,day match,1,1,1,0,0,0,0,1,0,0,0.899830944,2.459187334,0.71091476,-1.241033687,,,,,,,,,8
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 3 runs,8,2/14/1982,day match,1,1,0,1,0,0,0,1,0,1,1.015835717,2.761670408,0.734160654,-0.309027399,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 32 runs (revised target),8,03-10-93,day/night match,1,0,1,1,0,0,0,1,0,1,1.014894443,2.759072143,0.733976907,-0.309277713,,,,,,,,,8
+Sri Lanka,8,England,1,8,field,Sri Lanka won by 8 wickets (with 88 balls remaining),8,3/20/1993,day match,1,1,1,0,0,0,0,1,0,1,0.899830944,2.459187334,0.71091476,-0.341202744,,,,,,,,,8
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 5 wickets (with 55 balls remaining),8,3/23/2001,day match,1,1,0,0,0,0,0,1,0,1,0.929643866,2.533606712,0.717003028,-0.332675215,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 66 runs,8,3/25/2001,day/night match,1,0,1,1,0,0,0,1,0,1,1.014894443,2.759072143,0.733976907,-0.309277713,,,,,,,,,8
+Sri Lanka,8,England,1,8,field,Sri Lanka won by 10 wickets (with 97 balls remaining),8,3/27/2001,day match,1,1,1,0,0,0,0,1,0,1,0.899830944,2.459187334,0.71091476,-0.341202744,,,,,,,,,8
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 10 wickets (with 217 balls remaining),8,11/18/2003,day/night match,1,0,0,0,0,0,0,1,0,1,0.958515514,2.607822322,0.722824488,-0.324588842,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 119 runs,8,10-01-07,day/night match,1,0,1,1,0,0,0,1,0,1,1.014894443,2.759072143,0.733976907,-0.309277713,,,,,,,,,8
+Sri Lanka,8,England,1,1,bat,England won by 65 runs,1,10-04-07,day/night match,1,0,0,0,0,0,0,1,0,0,0.958515514,2.607822322,0.722824488,-1.283104356,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,England won by 2 wickets (with 7 balls remaining) (D/L method),1,10-07-07,day/night match,1,0,1,1,0,0,0,1,0,0,1.014894443,2.759072143,0.733976907,-1.324172156,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,England won by 5 wickets (with 19 balls remaining),1,10-10-07,day/night match,1,0,1,1,0,0,0,1,0,0,1.014894443,2.759072143,0.733976907,-1.324172156,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 107 runs,8,10/13/2007,day/night match,1,0,1,1,0,0,0,1,0,1,1.014894443,2.759072143,0.733976907,-0.309277713,,,,,,,,,8
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 10 wickets (with 63 balls remaining),8,3/26/2011,day/night match,1,0,0,0,0,0,0,1,0,1,0.958515514,2.607822322,0.722824488,-0.324588842,,,,,,,,,8
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 25 runs,8,11/26/2014,day/night match,1,0,0,1,0,0,0,1,0,1,1.044707365,2.842566568,0.739757274,-0.301433155,,,,,,,,,8
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 8 wickets (with 64 balls remaining),8,11/29/2014,day match,1,1,0,0,0,0,0,1,0,1,0.929643866,2.533606712,0.717003028,-0.332675215,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,England won by 5 wickets (with 8 balls remaining) (D/L method),1,12-03-14,day/night match,1,0,1,1,0,0,0,1,0,0,1.014894443,2.759072143,0.733976907,-1.324172156,,,,,,,,,8
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 6 wickets (with 2 balls remaining),8,12-07-14,day match,1,1,0,0,0,0,0,1,0,1,0.929643866,2.533606712,0.717003028,-0.332675215,,,,,,,,,8
+Sri Lanka,8,England,1,1,field,England won by 5 wickets (with 5 balls remaining),1,12-10-14,day/night match,1,0,0,1,0,0,0,1,0,0,1.044707365,2.842566568,0.739757274,-1.34614052,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 90 runs,8,12/13/2014,day match,1,1,1,1,0,0,0,1,0,1,0.986022795,2.680552138,0.728301634,-0.317039984,,,,,,,,,8
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 87 runs,8,12/16/2014,day/night match,1,0,1,1,0,0,0,1,0,1,1.014894443,2.759072143,0.733976907,-0.309277713,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,India won by 2 wickets (with 3 balls remaining),6,8/25/1985,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 14 runs,8,9/21/1985,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,India won by 1 run,6,7/25/1993,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 8 runs,8,08-12-93,day/night match,1,0,0,1,0,0,1,0,0,1,0.459253061,1.582891219,0.612836966,-0.489656339,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 4 wickets (with 3 balls remaining),8,8/14/1993,day match,1,1,0,0,0,0,1,0,0,1,0.344189561,1.410846052,0.585207857,-0.535788184,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 7 wickets (with 4 balls remaining),8,09-05-94,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,India won by 6 wickets (with 8 balls remaining),6,9/17/1994,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 9 wickets (with 34 balls remaining),8,8/28/1996,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 6 wickets (with 32 balls remaining),8,7/18/1997,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 8 wickets (with 79 balls remaining),8,7/26/1997,day match,1,1,0,0,0,0,1,0,0,1,0.344189561,1.410846052,0.585207857,-0.535788184,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 2 runs,8,8/17/1997,day/night match,1,0,0,1,0,0,1,0,0,1,0.459253061,1.582891219,0.612836966,-0.489656339,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 7 wickets (with 49 balls remaining),8,8/20/1997,day/night match,1,0,1,0,0,0,1,0,0,1,0.343248287,1.409518684,0.584979354,-0.536178724,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 9 runs,8,8/24/1997,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,India won by 8 wickets (with 38 balls remaining),6,6/19/1998,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 8 runs,8,07-01-98,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 6 runs,6,07-07-98,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 7 wickets (with 20 balls remaining),8,8/25/1999,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,India won by 23 runs (D/L method),6,8/29/1999,day match,1,1,1,1,0,0,1,0,0,0,0.40056849,1.492673027,0.598824238,-0.913355639,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 6 runs,8,7/22/2001,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,India won by 7 wickets (with 26 balls remaining),6,7/28/2001,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,India won by 46 runs,6,08-01-01,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 121 runs,8,08-05-01,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 12 runs,8,7/18/2004,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 4 runs,6,7/27/2004,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 25 runs,8,08-01-04,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 3 wickets (with 10 balls remaining),8,7/30/2005,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 4 wickets (with 12 balls remaining),8,08-03-05,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 18 runs,8,08-09-05,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 8 wickets (with 91 balls remaining),8,8/18/2008,day match,1,1,0,0,0,0,1,0,0,1,0.344189561,1.410846052,0.585207857,-0.535788184,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,India won by 3 wickets (with 62 balls remaining),6,8/20/2008,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 33 runs,6,8/24/2008,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 46 runs,6,8/27/2008,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 112 runs (D/L method),8,8/29/2008,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,field,India won by 6 wickets (with 11 balls remaining),6,1/28/2009,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 15 runs,6,1/31/2009,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 147 runs,6,02-03-09,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 67 runs,6,02-05-09,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 68 runs,8,02-08-09,day match,1,1,1,1,0,0,1,0,0,1,0.40056849,1.492673027,0.598824238,-0.512787149,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 139 runs,8,09-12-09,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 46 runs,6,9/14/2009,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 7 wickets (with 75 balls remaining),8,6/22/2010,day/night match,1,0,1,0,0,0,1,0,0,1,0.343248287,1.409518684,0.584979354,-0.536178724,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 81 runs,6,6/24/2010,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 93 balls remaining),6,8/16/2010,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 8 wickets (with 209 balls remaining),8,8/22/2010,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 74 runs,8,8/28/2010,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 21 runs,6,7/21/2012,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 9 wickets (with 181 balls remaining),8,7/24/2012,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,India won by 5 wickets (with 2 balls remaining),6,7/28/2012,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 46 balls remaining),6,7/31/2012,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,India,6,6,bat,India won by 20 runs,6,08-04-12,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,Kenya,26,26,field,Sri Lanka won by 144 runs,8,03-06-96,day match,1,1,0,1,1,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,8
+Sri Lanka,8,Kenya,26,26,bat,Sri Lanka won by 9 wickets (with 188 balls remaining),8,03-01-11,day/night match,1,0,0,0,1,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,8
+Sri Lanka,8,Netherlands,15,8,bat,Sri Lanka won by 206 runs,8,9/16/2002,day/night match,1,0,1,1,0,0,0,1,0,1,1.014894443,2.759072143,0.733976907,-0.309277713,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 104 runs,5,03-03-84,day match,1,1,1,0,0,0,0,0,1,0,0.624584484,1.867469832,0.651260498,-1.053430049,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,Sri Lanka won by 41 runs,8,3/31/1984,day match,1,1,0,1,0,0,0,0,1,1,0.740589257,2.097170923,0.677124697,-0.389899832,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 86 runs,5,04-01-84,day match,1,1,1,0,0,0,0,0,1,0,0.624584484,1.867469832,0.651260498,-1.053430049,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 4 wickets (with 32 balls remaining),8,11-03-84,day match,1,1,0,0,0,0,0,0,1,1,0.654397406,1.923982787,0.658000723,-0.418549249,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 7 wickets (with 56 balls remaining),5,11-04-84,day match,1,1,0,1,0,0,0,0,1,0,0.740589257,2.097170923,0.677124697,-1.130489089,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 6 wickets (with 40 balls remaining),5,04-05-86,day match,1,1,0,1,0,0,0,0,1,0,0.740589257,2.097170923,0.677124697,-1.130489089,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 8 wickets (with 74 balls remaining),8,12-12-92,day match,1,1,1,0,0,0,0,0,1,1,0.624584484,1.867469832,0.651260498,-0.428845566,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,Sri Lanka won by 31 runs,8,12/13/1992,day/night match,1,0,0,1,0,0,0,0,1,1,0.769460905,2.158602249,0.683404265,-0.380668698,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 7 wickets (with 60 balls remaining),8,6/21/1998,day/night match,1,0,0,0,0,0,0,0,1,1,0.683269054,1.980341004,0.664467925,-0.408768671,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,Sri Lanka won by 87 runs,8,07-05-98,day match,1,1,0,1,0,0,0,0,1,1,0.740589257,2.097170923,0.677124697,-0.389899832,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 16 runs,8,7/18/2001,day/night match,1,0,1,1,0,0,0,0,1,1,0.739647983,2.09519784,0.676918875,-0.390203843,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 5 wickets (with 9 balls remaining),8,7/25/2001,day match,1,1,0,0,0,0,0,0,1,1,0.654397406,1.923982787,0.658000723,-0.418549249,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,Sri Lanka won by 106 runs,8,7/31/2001,day match,1,1,0,1,0,0,0,0,1,1,0.740589257,2.097170923,0.677124697,-0.389899832,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 5 wickets (with 14 balls remaining),8,5/13/2003,day match,1,1,1,0,0,0,0,0,1,1,0.624584484,1.867469832,0.651260498,-0.428845566,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 9 runs,5,5/19/2003,day match,1,1,1,0,0,0,0,0,1,0,0.624584484,1.867469832,0.651260498,-1.053430049,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 97 runs,8,09-08-09,day/night match,1,0,1,1,0,0,0,0,1,1,0.739647983,2.09519784,0.676918875,-0.390203843,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 3 wickets (with 55 balls remaining),8,8/13/2010,day/night match,1,0,0,0,0,0,0,0,1,1,0.683269054,1.980341004,0.664467925,-0.408768671,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 5 wickets (with 13 balls remaining),8,3/29/2011,day/night match,1,0,0,0,0,0,0,0,1,1,0.683269054,1.980341004,0.664467925,-0.408768671,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 14 runs (D/L method),8,11-04-12,day/night match,1,0,0,1,0,0,0,0,1,1,0.769460905,2.158602249,0.683404265,-0.380668698,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 7 wickets (with 11 balls remaining) (D/L method),8,11-06-12,day/night match,1,0,1,0,0,0,0,0,1,1,0.653456132,1.922172644,0.657788871,-0.418871264,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 7 wickets (with 34 balls remaining) (D/L method),8,11-10-12,day/night match,1,0,1,0,0,0,0,0,1,1,0.653456132,1.922172644,0.657788871,-0.418871264,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 4 wickets (with 0 balls remaining) (D/L method),5,11-12-13,day/night match,1,0,1,1,0,0,0,0,1,0,0.739647983,2.09519784,0.676918875,-1.129851826,,,,,,,,,8
+Sri Lanka,8,New Zealand,5,5,field,Sri Lanka won by 36 runs (D/L method),8,11/16/2013,day match,1,1,0,1,0,0,0,0,1,1,0.740589257,2.097170923,0.677124697,-0.389899832,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 8 wickets (with 9 balls remaining),7,03-02-86,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 8 wickets (with 6 balls remaining) (revised target),7,03-11-86,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 81 runs,7,3/30/1986,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 5 wickets (with 16 balls remaining),8,04-06-86,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 9 wickets (with 70 balls remaining) (revised target),7,08-03-94,day match,1,1,1,1,0,0,1,0,0,0,0.40056849,1.492673027,0.598824238,-0.913355639,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 7 wickets (with 16 balls remaining),8,08-06-94,day/night match,1,0,1,0,0,0,1,0,0,1,0.343248287,1.409518684,0.584979354,-0.536178724,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 19 runs,7,08-07-94,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 5 wickets (with 50 balls remaining),7,8/22/1994,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 27 runs,7,8/24/1994,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 7 wickets (with 16 balls remaining),8,09-11-94,day match,1,1,1,1,0,0,1,0,0,1,0.40056849,1.492673027,0.598824238,-0.512787149,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 15 runs,8,7/14/1997,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 5 wickets (with 45 balls remaining),8,07-05-00,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 6 wickets (with 4 balls remaining),8,07-09-00,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 8 wickets (with 83 balls remaining),8,09-12-02,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 79 runs,7,05-10-03,day match,1,1,1,0,0,0,1,0,0,0,0.314376639,1.369405411,0.577953188,-0.862639042,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 12 runs,8,5/18/2003,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 7 wickets (with 108 balls remaining),8,7/21/2004,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 4 wickets (with 32 balls remaining),7,3/19/2006,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 4 wickets (with 28 balls remaining),7,3/22/2006,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 36 runs,8,7/30/2009,day match,1,1,0,1,0,0,1,0,0,1,0.430381412,1.537843964,0.605964742,-0.500933475,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 6 wickets (with 38 balls remaining),8,08-01-09,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 6 wickets (with 21 balls remaining),8,08-03-09,day match,1,1,1,0,0,0,1,0,0,1,0.314376639,1.369405411,0.577953188,-0.548262403,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 146 runs,7,08-07-09,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 132 runs,7,08-09-09,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 16 runs,8,6/15/2010,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 11 runs,7,2/26/2011,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 6 wickets (with 47 balls remaining) (D/L method),7,06-07-12,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 76 runs,8,06-09-12,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 44 runs,8,6/16/2012,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 2 wickets (with 2 balls remaining),8,6/18/2012,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 4 wickets (with 1 ball remaining) (D/L method),7,8/23/2014,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 77 runs,8,8/26/2014,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 7 wickets (with 178 balls remaining) (D/L method),8,8/30/2014,day match,1,1,0,0,0,0,1,0,0,1,0.344189561,1.410846052,0.585207857,-0.535788184,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 6 wickets (with 28 balls remaining),7,07-11-15,day match,1,1,0,1,0,0,1,0,0,0,0.430381412,1.537843964,0.605964742,-0.931314888,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 2 wickets (with 11 balls remaining),8,7/15/2015,day/night match,1,0,0,0,0,0,1,0,0,1,0.373061209,1.452173224,0.592198467,-0.523913452,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 135 runs,7,7/19/2015,day/night match,1,0,0,0,0,0,1,0,0,0,0.373061209,1.452173224,0.592198467,-0.896974661,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 7 wickets (with 55 balls remaining),7,7/22/2015,day/night match,1,0,1,1,0,0,1,0,0,0,0.429440139,1.536397113,0.605739971,-0.930744615,,,,,,,,,8
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 165 runs,8,7/26/2015,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 124 runs,3,09-02-93,day/night match,1,0,0,0,1,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 44 runs,8,09-04-93,day/night match,1,0,1,1,1,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 37 runs,8,07-06-00,day match,1,1,0,1,1,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,field,Sri Lanka won by 8 wickets (with 135 balls remaining),8,07-11-00,day match,1,1,1,0,1,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 30 runs,8,7/14/2000,day/night match,1,0,1,1,1,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 3 wickets (with 6 balls remaining),8,8/20/2004,day/night match,1,0,0,0,1,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 37 runs,8,8/22/2004,day match,1,1,1,1,1,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 4 wickets (with 14 balls remaining),8,8/25/2004,day/night match,1,0,0,0,1,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,field,Sri Lanka won by 7 wickets (with 23 balls remaining),8,8/28/2004,day match,1,1,1,0,1,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 49 runs,8,8/31/2004,day match,1,1,0,1,1,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 180 runs,8,7/20/2013,day/night match,1,0,0,1,1,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 17 runs (D/L method),8,7/23/2013,day/night match,1,0,1,1,1,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 56 runs,3,7/26/2013,day/night match,1,0,0,0,1,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 8 wickets (with 36 balls remaining),8,7/28/2013,day/night match,1,0,0,0,1,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 128 runs,8,7/31/2013,day/night match,1,0,1,1,1,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 75 runs,3,07-06-14,day match,1,1,0,0,1,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,8
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 87 runs,8,07-09-14,day/night match,1,0,1,1,1,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 82 runs,3,07-12-14,day match,1,1,0,0,1,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,8
+Sri Lanka,8,United Arab Emirates,27,8,bat,Sri Lanka won by 116 runs,8,7/17/2004,day/night match,1,0,1,1,0,0,1,0,0,1,0.429440139,1.536397113,0.605739971,-0.501304476,,,,,,,,,8
+Sri Lanka,8,United Arab Emirates,27,8,bat,Sri Lanka won by 142 runs,8,6/26/2008,night match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 9 wickets (with 236 balls remaining),4,06-07-75,day match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 8 wickets (with 56 balls remaining),4,01-10-85,day match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 90 runs,4,01-12-85,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,bat,West Indies won by 65 runs,4,1/17/1985,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 8 wickets (with 76 balls remaining),4,1/26/1985,day match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 82 runs,4,02-02-85,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,bat,West Indies won by 8 wickets (with 143 balls remaining),4,2/27/1985,day/night match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 193 runs,4,12-03-86,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 191 runs,4,10/13/1987,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 25 runs,4,10/21/1987,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 4 wickets (with 17 balls remaining),8,10/19/1989,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 91 runs,4,3/13/1992,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 8 wickets (with 24 balls remaining),4,10/28/1993,day match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,bat,West Indies won by 8 wickets (with 68 balls remaining),4,11-03-93,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 46 runs,4,11-09-93,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 7 wickets (with 49 balls remaining),4,11/25/1993,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,bat,Sri Lanka won by 3 wickets (with 5 balls remaining),8,12/16/1993,day/night match,1,0,0,0,0,1,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,8
+Sri Lanka,8,West Indies,4,8,bat,West Indies won by 6 wickets (with 5 balls remaining),4,12/18/1993,day match,1,1,1,1,0,1,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,8
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 6 runs,8,10-11-95,day match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,bat,West Indies won by 4 runs,4,10/16/1995,day match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 50 runs,8,10/20/1995,day match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 4 wickets (with 30 balls remaining),8,12/15/1995,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 70 runs,4,01-03-96,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,bat,West Indies won by 7 wickets (with 143 balls remaining),4,01-05-96,day/night match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 16 runs,8,1/14/1996,day match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 7 wickets (with 62 balls remaining),8,11-01-97,day/night match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,bat,West Indies won by 3 wickets (with 4 balls remaining),4,10/13/1999,day/night match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,bat,Sri Lanka won by 9 wickets (with 132 balls remaining),8,10/17/1999,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 108 runs,8,10-04-00,day match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,0
+Sri Lanka,8,West Indies,4,4,bat,West Indies won by 49 runs,4,12-11-01,day/night match,1,0,0,0,0,1,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,8
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 8 wickets (with 41 balls remaining),8,12/15/2001,day match,1,1,1,0,0,1,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,West Indies,4,8,bat,Sri Lanka won by 34 runs (D/L method),8,12/19/2001,day/night match,1,0,1,1,0,1,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,West Indies,4,8,bat,Sri Lanka won by 6 runs,8,2/28/2003,day/night match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,bat,Sri Lanka won by 50 runs,8,08-02-05,day/night match,1,0,1,1,0,1,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,West Indies,4,4,bat,West Indies won by 33 runs,4,08-06-05,day/night match,1,0,0,0,0,1,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,8
+Sri Lanka,8,West Indies,4,4,bat,Sri Lanka won by 9 wickets (with 220 balls remaining),8,10/14/2006,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,0
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 8 wickets (with 27 balls remaining) (D/L method),8,02-03-11,day match,1,1,1,0,0,1,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 26 runs,8,02-06-11,day match,1,1,0,1,0,1,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,8
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 1 wicket (with 7 balls remaining) (D/L method),8,11-01-15,day/night match,1,0,1,0,0,1,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,8
+Sri Lanka,8,West Indies,4,4,bat,Sri Lanka won by 8 wickets (with 9 balls remaining) (D/L method),8,11-04-15,day/night match,1,0,0,0,0,1,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,8
+Sri Lanka,8,West Indies,4,8,field,Sri Lanka won by 19 runs (D/L method),8,11-07-15,day/night match,1,0,1,1,0,1,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 3 wickets (with 4 balls remaining),8,2/23/1992,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 30 runs,8,02-03-93,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 55 runs,8,11/15/1993,day match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,9,bat,Sri Lanka won by 6 wickets (with 78 balls remaining),8,2/21/1996,day match,1,1,0,0,1,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 6 wickets (with 18 balls remaining),8,09-03-96,day match,1,1,1,0,1,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 7 wickets (with 26 balls remaining),8,04-03-97,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,9,bat,Zimbabwe won by 50 runs,9,04-08-97,day match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 5 wickets (with 28 balls remaining),8,1/22/1998,day match,1,1,1,0,0,1,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,9,bat,Sri Lanka won by 5 wickets (with 10 balls remaining),8,1/24/1998,day match,1,1,0,0,0,1,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,9,bat,Sri Lanka won by 4 wickets (with 6 balls remaining),8,1/26/1998,day match,1,1,0,0,0,1,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,9,field,Zimbabwe won by 7 wickets (with 23 balls remaining),9,11-07-98,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Zimbabwe won by 24 runs,9,11-10-98,day/night match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 4 wickets (with 24 balls remaining),8,5/22/1999,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 7 wickets (with 18 balls remaining),8,10/21/2000,day/night match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 123 runs,8,10/25/2000,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 63 runs,8,10/26/2001,day/night match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 79 runs,8,10/30/2001,day/night match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 9 wickets (with 274 balls remaining),8,12-08-01,day match,1,1,1,0,1,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 59 runs,8,12-12-01,day/night match,1,0,1,1,1,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,8
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 74 runs,8,3/15/2003,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,bat,Zimbabwe won by 4 wickets (with 8 balls remaining),9,04-07-03,day/night match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 4 wickets (with 37 balls remaining),8,9/14/2004,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 7 wickets (with 191 balls remaining),8,10-09-04,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 144 runs,8,10-10-06,day/night match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 130 runs,8,01-12-09,day match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,0
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 139 runs,8,03-10-11,day/night match,1,0,0,1,1,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,8
+Sri Lanka,8,Australia,2,8,field,Australia won by 52 runs,2,11-06-75,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 6 wickets (with 16 balls remaining),2,08-01-85,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 4 wickets (with 4 balls remaining),8,19-01-85,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Australia,2,2,field,Australia won by 3 wickets (with 17 balls remaining),2,23-01-85,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 232 runs,2,28-01-85,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 9 wickets (with 157 balls remaining),2,03-02-85,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 81 runs,2,02-01-88,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 81 runs,2,10-01-88,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 38 runs,2,14-01-88,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,2,field,Australia won by 3 wickets (with 3 balls remaining),2,19-01-88,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 28 runs,2,25-10-89,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 30 runs,2,26-12-89,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 9 wickets (with 55 balls remaining),2,30-12-89,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 73 runs,2,04-01-90,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 7 wickets (with 60 balls remaining),2,18-02-90,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 114 runs,2,02-05-90,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,2,field,Australia won by 7 wickets (with 36 balls remaining),2,07-03-92,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 9 wickets (with 79 balls remaining),2,14-04-94,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 5 wickets (with 2 balls remaining),2,21-12-95,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 3 wickets (with 15 balls remaining),8,09-01-96,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 83 runs,2,12-01-96,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 3 wickets (with 2 balls remaining),8,16-01-96,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 18 runs,2,18-01-96,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 9 runs (revised target),2,20-01-96,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 7 wickets (with 22 balls remaining),8,17-03-96,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 8 wickets (with 23 balls remaining),2,13-01-99,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 3 wickets (with 3 balls remaining),8,21-01-99,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 80 runs,2,24-01-99,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 45 runs,2,31-01-99,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 43 runs,2,07-02-99,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 142 runs,2,22-12-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,2,field,Sri Lanka won by 79 runs,8,09-01-03,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 4 wickets (with 7 balls remaining),2,15-01-03,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 9 wickets (with 93 balls remaining),2,21-01-03,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 96 runs,2,07-03-03,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 48 runs (D/L method),2,18-03-03,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 116 runs,2,13-01-06,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Sri Lanka won by 51 runs,8,22-01-06,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 5 wickets (with 9 balls remaining),2,26-01-06,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 6 wickets (with 54 balls remaining),2,29-01-06,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Sri Lanka won by 22 runs,8,10-02-06,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 167 runs,2,12-02-06,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 9 wickets (with 27 balls remaining),2,14-02-06,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 7 wickets (with 44 balls remaining),2,16-04-07,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 53 runs (D/L method),2,28-04-07,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 128 runs,2,08-02-08,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 63 runs,2,15-02-08,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 24 runs (D/L method),2,22-02-08,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Sri Lanka won by 13 runs,8,29-02-08,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 1 wicket (with 34 balls remaining),8,03-11-10,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Sri Lanka won by 29 runs (D/L method),8,05-11-10,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Australia won by 8 wickets (with 170 balls remaining),2,07-11-10,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 5 runs,2,10-02-12,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 8 wickets (with 101 balls remaining) (D/L method),8,17-02-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 3 wickets (with 4 balls remaining),8,24-02-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,8,bat,Sri Lanka won by 9 runs,8,02-03-12,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 15 runs,2,04-03-12,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 8 wickets (with 34 balls remaining),8,06-03-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 16 runs,2,08-03-12,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 107 runs,2,11-01-13,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Sri Lanka won by 8 wickets (with 59 balls remaining),8,13-01-13,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Sri Lanka won by 4 wickets (with 180 balls remaining),8,18-01-13,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Australia,2,8,field,Australia won by 32 runs,2,23-01-13,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Australia,2,2,field,Sri Lanka won by 20 runs,8,17-06-13,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,Australia,2,2,bat,Australia won by 64 runs,2,08-03-15,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 47 runs,1,11-06-83,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 9 wickets (with 215 balls remaining),1,20-06-83,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 108 runs (revised target),1,17-10-87,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,England won by 8 wickets (with 52 balls remaining),1,30-10-87,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 5 wickets (with 14 balls remaining),1,04-09-88,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 5 wickets (with 8 balls remaining),1,15-10-89,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 106 runs,1,09-03-92,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 5 wickets (with 56 balls remaining),8,09-03-96,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,England,1,8,field,England won by 36 runs,1,16-08-98,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 5 wickets (with 17 balls remaining),8,20-08-98,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,England won by 4 wickets (with 3 balls remaining),1,11-01-99,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,England won by 7 wickets (with 28 balls remaining),1,19-01-99,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,England,1,8,field,Sri Lanka won by 1 wicket (with 2 balls remaining),8,23-01-99,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,England,1,8,field,England won by 128 runs,1,29-01-99,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 11 runs,8,03-02-99,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 8 wickets (with 19 balls remaining),1,14-05-99,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 44 runs,1,27-06-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 3 wickets (with 4 balls remaining),1,02-07-02,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 23 runs,8,07-07-02,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 43 runs,1,17-12-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 95 runs,1,20-12-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 31 runs,8,13-01-03,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 19 runs,1,17-01-03,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,England,1,8,field,England won by 49 runs (D/L method),1,17-09-04,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 20 runs,8,17-06-06,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 46 runs,8,20-06-06,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 8 wickets (with 46 balls remaining),8,24-06-06,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,England,1,8,bat,Sri Lanka won by 33 runs,8,28-06-06,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 8 wickets (with 75 balls remaining),8,01-07-06,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 2 runs,8,04-04-07,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 6 wickets (with 30 balls remaining),1,25-09-09,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,England,1,8,field,England won by 110 runs (D/L method),1,28-06-11,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 69 runs,8,01-07-11,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 6 wickets (with 10 balls remaining),8,03-07-11,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 10 wickets (with 145 balls remaining) (D/L method),1,06-07-11,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,England won by 16 runs,1,09-07-11,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,England,1,8,field,Sri Lanka won by 7 wickets (with 17 balls remaining),8,13-06-13,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,England,1,8,field,England won by 81 runs (D/L method),1,22-05-14,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 157 runs,8,25-05-14,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,England,1,1,field,England won by 10 wickets (with 227 balls remaining),1,28-05-14,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,England,1,1,field,Sri Lanka won by 7 runs,8,31-05-14,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 6 wickets (with 10 balls remaining),8,03-06-14,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,England,1,1,bat,Sri Lanka won by 9 wickets (with 16 balls remaining),8,01-03-15,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 47 runs,8,16-06-79,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 78 runs,6,12-09-82,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 55 balls remaining),6,15-09-82,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 64 balls remaining),6,26-09-82,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 10 wickets (with 170 balls remaining),6,08-04-84,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 3 wickets (with 5 balls remaining),6,13-04-86,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 21 balls remaining),6,27-11-86,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 117 runs,8,24-12-86,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 8 wickets (with 111 balls remaining),6,11-01-87,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 6 wickets (with 15 balls remaining),6,13-01-87,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 94 runs,6,15-01-87,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 10 runs,6,17-01-87,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 18 runs,6,25-03-88,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 17 runs,8,29-10-88,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 6 wickets (with 47 balls remaining),6,04-11-88,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,India won by 6 runs,6,22-10-89,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 3 wickets (with 4 balls remaining),8,25-04-90,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 19 runs,6,01-12-90,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 6 wickets (with 21 balls remaining),6,05-12-90,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 7 wickets (with 103 balls remaining),8,08-12-90,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 36 runs,8,28-12-90,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 17 balls remaining),6,04-01-91,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 32 balls remaining),6,07-11-93,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 8 runs,6,15-02-94,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 10 balls remaining),6,18-02-94,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 4 wickets (with 1 ball remaining) (revised target),8,20-02-94,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 8 wickets (with 101 balls remaining),6,09-04-95,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 8 wickets (with 49 balls remaining),6,14-04-95,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 6 wickets (with 8 balls remaining),8,02-03-96,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,India won by 12 runs,6,03-04-96,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 5 wickets (with 55 balls remaining),8,17-05-97,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 31 balls remaining),6,22-12-97,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 5 wickets (with 10 balls remaining),8,28-12-97,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 3 wickets (with 5 balls remaining),6,06-11-98,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 81 runs,6,09-11-98,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 80 runs,6,22-03-99,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 51 runs,6,30-03-99,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 157 runs,6,26-05-99,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 71 runs,8,01-06-00,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 5 wickets (with 37 balls remaining),8,20-10-00,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 68 runs,8,27-10-00,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 245 runs,8,29-10-00,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 4 wickets (with 28 balls remaining),6,30-06-02,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 4 wickets (with 11 balls remaining),6,06-07-02,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,India won by 63 runs,6,11-07-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 183 runs,6,10-03-03,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,India won by 152 runs,6,25-10-05,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 8 wickets (with 178 balls remaining),6,28-10-05,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 23 balls remaining),6,31-10-05,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 4 wickets (with 26 balls remaining),6,03-11-05,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 5 wickets (with 14 balls remaining),8,06-11-05,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 91 balls remaining),6,09-11-05,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 5 wickets (with 63 balls remaining),6,12-11-05,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 5 runs,8,11-02-07,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 5 wickets (with 21 balls remaining),6,14-02-07,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 36 balls remaining),6,17-02-07,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 69 runs,8,23-03-07,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 8 wickets (with 12 balls remaining) (D/L method),8,12-02-08,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 2 wickets (with 5 balls remaining),6,19-02-08,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 106 balls remaining),6,26-02-08,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 19 balls remaining),6,03-07-08,night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 100 runs,8,06-07-08,night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 3 runs,6,15-12-09,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,Sri Lanka won by 3 wickets (with 5 balls remaining),8,18-12-09,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 7 wickets (with 45 balls remaining),6,21-12-09,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 7 wickets (with 11 balls remaining),6,24-12-09,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 5 wickets (with 12 balls remaining),8,05-01-10,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 8 wickets (with 104 balls remaining),6,10-01-10,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 4 wickets (with 9 balls remaining),8,13-01-10,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 39 balls remaining),6,30-05-10,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 6 wickets (with 10 balls remaining),8,05-06-10,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 10 balls remaining),6,02-04-11,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 4 wickets (with 20 balls remaining),6,08-02-12,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,Sri Lanka won by 51 runs,8,21-02-12,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 7 wickets (with 80 balls remaining),6,28-02-12,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 50 runs,6,13-03-12,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 8 wickets (with 90 balls remaining),6,20-06-13,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,6,field,Sri Lanka won by 161 runs,8,02-07-13,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 81 runs (D/L method),6,09-07-13,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,India,6,6,field,India won by 1 wicket (with 2 balls remaining),6,11-07-13,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,India,6,8,field,Sri Lanka won by 2 wickets (with 4 balls remaining),8,28-02-14,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,India,6,8,field,India won by 169 runs,6,02-11-14,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 33 balls remaining),6,06-11-14,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 6 wickets (with 35 balls remaining),6,09-11-14,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,India,6,6,bat,India won by 153 runs,6,13-11-14,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,India,6,8,bat,India won by 3 wickets (with 8 balls remaining),6,16-11-14,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 9 wickets (with 74 balls remaining),5,09-06-79,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 65 runs,5,02-03-83,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 7 wickets (with 80 balls remaining),5,19-03-83,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,New Zealand won by 116 runs,5,20-03-83,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 5 wickets (with 124 balls remaining),5,13-06-83,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 3 wickets (with 43 balls remaining),8,18-06-83,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 51 runs,5,23-02-85,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 6 wickets (with 8 balls remaining),5,05-01-88,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 4 wickets (with 1 ball remaining),5,09-01-88,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 4 wickets (with 21 balls remaining),8,12-01-88,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 4 wickets (with 11 balls remaining),5,16-01-88,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 99 runs,5,29-03-88,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,New Zealand won by 43 runs,5,31-03-88,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 5 wickets (with 45 balls remaining),5,26-01-91,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 41 runs,5,28-01-91,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 107 runs,5,06-02-91,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 6 wickets (with 10 balls remaining),5,25-02-92,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 2 runs,5,18-04-94,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 5 wickets (with 17 balls remaining),8,18-12-94,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 33 runs,5,26-03-95,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,New Zealand won by 57 runs (revised target),5,29-03-95,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 51 runs,8,01-04-95,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 29 runs,5,07-11-96,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 6 wickets (with 85 balls remaining),8,25-03-97,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 69 runs,5,27-03-97,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 52 runs,8,20-05-97,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 5 wickets (with 51 balls remaining),8,26-10-98,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 61 runs,8,31-01-01,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 3 wickets (with 3 balls remaining),8,03-02-01,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 9 wickets (with 103 balls remaining),8,06-02-01,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,Sri Lanka won by 3 runs (D/L method),8,08-02-01,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 13 runs,5,11-02-01,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 106 runs,8,10-04-01,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 79 runs,5,17-04-01,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,New Zealand won by 11 runs,5,09-04-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 46 runs,8,14-04-02,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,Sri Lanka won by 47 runs,8,10-02-03,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 7 wickets (with 102 balls remaining),5,26-12-04,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 7 wickets (with 76 balls remaining),5,31-12-05,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 5 wickets (with 12 balls remaining),5,03-01-06,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,New Zealand won by 21 runs,5,06-01-06,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 20 runs,8,08-01-06,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 7 wickets (with 84 balls remaining),8,20-10-06,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 7 wickets (with 60 balls remaining),8,28-12-06,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 1 wicket (with 0 balls remaining),5,31-12-06,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,field,New Zealand won by 4 wickets (with 129 balls remaining) (D/L method),5,02-01-07,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 189 runs,8,06-01-07,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 6 wickets (with 29 balls remaining),8,12-04-07,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 81 runs,8,24-04-07,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 38 runs,5,27-09-09,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 112 runs,8,18-03-11,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 1 wicket (with 81 balls remaining),5,09-06-13,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 3 wickets (with 42 balls remaining),5,11-01-15,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 6 wickets (with 14 balls remaining),8,15-01-15,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 4 wickets (with 11 balls remaining),5,20-01-15,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 108 runs,5,23-01-15,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,New Zealand won by 120 runs,5,25-01-15,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,Sri Lanka won by 34 runs,8,29-01-15,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 98 runs,5,14-02-15,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 7 wickets (with 174 balls remaining),5,26-12-15,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,bat,New Zealand won by 10 wickets (with 250 balls remaining),5,28-12-15,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,New Zealand,5,5,bat,Sri Lanka won by 8 wickets (with 22 balls remaining),8,31-12-15,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,New Zealand,5,8,field,New Zealand won by 36 runs,5,05-01-16,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 192 runs,7,14-06-75,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 8 wickets (with 22 balls remaining),7,12-03-82,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 30 runs (revised target),8,29-03-82,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 5 wickets (with 11 balls remaining),7,31-03-82,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 50 runs,7,09-06-83,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 11 runs,7,16-06-83,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 5 wickets (with 15 balls remaining),8,06-04-84,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 8 wickets (with 43 balls remaining),7,13-10-85,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 15 runs,7,23-10-85,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 5 wickets (with 9 balls remaining),7,25-10-85,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 89 runs,7,03-11-85,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 4 wickets (with 6 balls remaining),7,02-12-86,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 15 runs,7,08-10-87,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 113 runs,7,25-10-87,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 5 wickets (with 31 balls remaining),8,27-10-88,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 30 runs,7,23-03-89,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 7 wickets (with 13 balls remaining),7,24-03-89,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 6 runs,7,27-10-89,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 3 wickets (with 9 balls remaining),8,31-12-89,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 5 wickets (with 18 balls remaining),7,10-02-90,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 6 wickets (with 9 balls remaining),7,15-02-90,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 27 runs,7,17-02-90,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 90 runs,7,29-04-90,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 6 wickets (with 31 balls remaining),8,20-12-90,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 50 runs,7,21-12-90,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 8 wickets (with 19 balls remaining),7,10-01-92,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 29 runs,7,13-01-92,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 59 runs,7,15-01-92,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 4 wickets (with 2 balls remaining),8,17-01-92,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 117 runs,7,19-01-92,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 4 wickets (with 5 balls remaining),7,15-03-92,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 8 wickets (with 34 balls remaining),7,02-02-93,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 114 runs,7,04-02-93,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 114 runs,7,30-10-93,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 2 wickets (with 2 balls remaining),7,02-11-93,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 6 wickets (with 13 balls remaining),7,02-12-94,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 12 runs,7,04-12-94,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 5 wickets (with 115 balls remaining),8,11-04-95,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 9 wickets (with 36 balls remaining),7,29-09-95,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 49 runs,8,01-10-95,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 4 wickets (with 2 balls remaining),8,03-10-95,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 82 runs,7,12-10-95,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 8 wickets (with 139 balls remaining),8,17-10-95,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 34 runs,8,02-04-96,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 43 runs,7,07-04-96,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 82 runs,7,04-10-96,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 75 runs,8,08-11-96,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 8 wickets (with 20 balls remaining),7,12-11-96,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 19 runs,8,04-04-97,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 51 runs,8,07-04-97,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 4 wickets (with 4 balls remaining),8,11-04-97,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 30 runs,7,12-05-97,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 115 runs,8,24-05-97,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 85 runs,8,27-05-97,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 8 wickets (with 60 balls remaining),8,05-11-97,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 4 wickets (with 12 balls remaining),7,07-04-98,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 110 runs,7,09-04-98,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 115 runs,8,15-04-98,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 9 runs,7,19-03-99,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 12 runs,8,27-03-99,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 118 runs,7,18-10-99,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 88 runs,7,22-10-99,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 29 runs,8,13-02-00,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 34 runs,8,16-02-00,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 104 runs,8,19-02-00,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 7 wickets (with 10 balls remaining),7,05-06-00,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 39 runs,7,07-06-00,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 9 wickets (with 40 balls remaining),7,08-10-00,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 16 runs,7,08-04-01,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 28 runs,7,13-04-01,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 77 runs,8,20-04-01,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 7 wickets (with 71 balls remaining),8,27-10-01,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 7 wickets (with 4 balls remaining),7,02-11-01,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 5 wickets (with 38 balls remaining),7,04-11-01,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 41 runs,8,08-04-02,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 9 runs,8,12-04-02,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 217 runs,7,17-04-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 28 runs,7,14-08-02,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 39 runs,8,17-08-02,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 7 wickets (with 16 balls remaining),7,04-04-03,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 8 wickets (with 8 balls remaining),7,06-10-04,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Pakistan won by 6 wickets (with 7 balls remaining),7,14-10-04,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 119 runs,8,16-10-04,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 4 wickets (with 11 balls remaining),7,17-10-06,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 5 wickets (with 48 balls remaining),7,18-05-07,night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 98 runs,7,20-05-07,night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 115 runs,8,22-05-07,night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 64 runs,8,29-06-08,night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 8 wickets (with 25 balls remaining),7,20-01-09,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,field,Sri Lanka won by 129 runs,8,21-01-09,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 234 runs,8,24-01-09,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 8 wickets (with 169 balls remaining),7,11-11-11,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 25 runs,8,14-11-11,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 21 runs,7,18-11-11,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 26 runs,7,20-11-11,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 3 wickets (with 16 balls remaining),7,23-11-11,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 6 wickets (with 61 balls remaining),7,15-03-12,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Pakistan won by 11 runs,7,18-12-13,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Sri Lanka won by 2 wickets (with 2 balls remaining),8,20-12-13,day/night match,0,1,0,0,0,0,0,0,0,1,-0.341498912,0.710704241,0.41544542,-0.878404034,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,field,Pakistan won by 113 runs,7,22-12-13,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Pakistan won by 8 wickets (with 53 balls remaining),7,25-12-13,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 2 wickets (with 2 balls remaining),8,27-12-13,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,Pakistan,7,8,bat,Sri Lanka won by 12 runs,8,25-02-14,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,Pakistan,7,7,bat,Sri Lanka won by 5 wickets (with 22 balls remaining),8,08-03-14,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,Sri Lanka won by 3 wickets (with 1 ball remaining),8,02-03-92,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,South Africa won by 78 runs,3,19-11-93,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 35 runs,8,15-12-94,day/night match,0,1,0,1,0,0,0,0,0,1,-0.25530706,0.774678588,0.436517685,-0.82892639,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 44 runs (revised target),3,21-12-94,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 2 wickets (with 56 balls remaining),8,01-10-96,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,South Africa won by 66 runs,3,06-11-97,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,South Africa won by 4 wickets (with 56 balls remaining),3,08-11-97,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 57 runs,3,05-04-98,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 6 wickets (with 20 balls remaining),8,13-04-98,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,South Africa won by 5 wickets (with 141 balls remaining),3,19-04-98,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 57 runs,8,14-08-98,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,South Africa won by 92 runs (D/L method),3,30-10-98,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,South Africa won by 89 runs,3,19-05-99,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 4 wickets (with 16 balls remaining),3,15-12-00,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 95 runs,3,17-12-00,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 8 wickets (with 7 balls remaining),3,09-01-01,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 99 runs,3,11-01-01,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,South Africa won by 5 wickets (with 48 balls remaining),3,14-01-01,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 4 runs (D/L method),8,17-01-01,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 93 runs,8,15-08-02,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 6 wickets (with 47 balls remaining),8,19-08-02,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 27 runs,8,21-08-02,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,South Africa won by 6 wickets (with 123 balls remaining),3,27-11-02,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 177 runs,3,29-11-02,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,Sri Lanka won by 7 wickets (with 50 balls remaining),8,01-12-02,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,South Africa won by 8 wickets (with 115 balls remaining),3,04-12-02,day/night match,0,0,0,1,0,0,0,0,0,0,-0.226435412,0.797370841,0.443631789,-0.586324953,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 6 wickets (with 29 balls remaining),3,06-12-02,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 94 runs,8,17-01-06,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 9 runs,3,24-01-06,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 5 wickets (with 29 balls remaining),3,31-01-06,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,Sri Lanka won by 76 runs,8,07-02-06,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,South Africa won by 78 runs,3,24-10-06,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 1 wicket (with 10 balls remaining),3,28-03-07,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,Sri Lanka won by 55 runs (D/L method),8,22-09-09,day/night match,0,0,0,1,0,0,0,0,0,1,-0.226435412,0.797370841,0.443631789,-0.812760365,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,South Africa won by 258 runs,3,11-01-12,day/night match,0,0,0,0,0,0,0,0,0,0,-0.312627263,0.731522527,0.422473584,-0.549001095,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,field,South Africa won by 5 wickets (with 8 balls remaining),3,14-01-12,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 4 runs (D/L method),3,17-01-12,day/night match,0,1,0,0,0,0,0,0,0,0,-0.341498912,0.710704241,0.41544542,-0.536905123,,,,,,,,,
+Sri Lanka,8,South Africa,3,3,bat,Sri Lanka won by 5 wickets (with 8 balls remaining),8,20-01-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.312627263,0.731522527,0.422473584,-0.861628358,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,field,Sri Lanka won by 2 wickets (with 1 ball remaining),8,22-01-12,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,South Africa,3,8,bat,South Africa won by 9 wickets (with 192 balls remaining),3,18-03-15,day/night match,0,1,0,1,0,0,0,0,0,0,-0.25530706,0.774678588,0.436517685,-0.57361933,,,,,,,,,
+Sri Lanka,8,West Indies,4,8,bat,Sri Lanka won by 35 runs,8,13-04-96,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,West Indies,4,8,field,West Indies won by 35 runs,4,06-06-97,day match,0,1,1,0,0,0,0,0,0,0,-0.371311834,0.689828796,0.408224074,-0.52462722,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 55 runs,8,07-06-03,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,bat,Sri Lanka won by 4 wickets (with 3 balls remaining),8,08-06-03,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 6 wickets (with 31 balls remaining) (D/L method),4,11-06-03,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 113 runs,8,01-04-07,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 1 wicket (with 0 balls remaining),4,10-04-08,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 7 wickets (with 27 balls remaining) (D/L method),4,12-04-08,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,West Indies won by 6 wickets (with 73 balls remaining),4,28-06-13,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,West Indies,4,4,field,Sri Lanka won by 39 runs (D/L method),8,07-07-13,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 56 runs,8,03-11-94,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,bat,Zimbabwe won by 2 runs,9,05-11-94,day match,0,0,1,0,0,0,0,0,0,0,-0.342440185,0.710035589,0.415216849,-0.536514182,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 191 runs,8,06-11-94,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 13 runs,8,12-12-99,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 98 runs,8,15-12-99,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,bat,Sri Lanka won by 6 wickets (with 32 balls remaining),8,18-12-99,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,bat,Zimbabwe won by 6 wickets (with 22 balls remaining),9,19-12-99,day match,0,1,1,1,0,0,0,0,0,0,-0.285119982,0.751924031,0.429198994,-0.56071463,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 12 runs (D/L method),8,20-04-04,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 9 wickets (with 175 balls remaining),8,22-04-04,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 9 wickets (with 244 balls remaining),8,25-04-04,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 72 runs,8,27-04-04,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,bat,Sri Lanka won by 25 runs,8,29-04-04,day match,0,1,1,1,0,0,0,0,0,1,-0.285119982,0.751924031,0.429198994,-0.845834613,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 6 wickets (with 100 balls remaining),8,20-11-08,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,bat,Sri Lanka won by 9 wickets (with 194 balls remaining),8,22-11-08,day match,0,0,1,0,0,0,0,0,0,1,-0.342440185,0.710035589,0.415216849,-0.878954368,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 5 runs,8,24-11-08,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 2 wickets (with 15 balls remaining),8,28-11-08,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Sri Lanka won by 19 runs,8,30-11-08,day match,0,0,1,1,0,0,0,0,0,1,-0.256248334,0.773949747,0.436286173,-0.82945689,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 9 wickets (with 64 balls remaining),8,01-06-10,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,9,field,Zimbabwe won by 8 wickets (with 13 balls remaining),9,07-06-10,day match,0,0,1,1,0,0,0,0,0,0,-0.256248334,0.773949747,0.436286173,-0.573208556,,,,,,,,,
+Sri Lanka,8,Zimbabwe,9,8,field,Sri Lanka won by 9 wickets (with 92 balls remaining),8,09-06-10,day match,0,1,1,0,0,0,0,0,0,1,-0.371311834,0.689828796,0.408224074,-0.895939053,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,-466.0649681,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

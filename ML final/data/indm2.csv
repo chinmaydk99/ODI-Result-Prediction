@@ -1,0 +1,999 @@
+team1,team1_id,team2,team2_id,win_toss,bat_or_bowl,outcome,win_game,date,day_n_night,hm,dn,ts,bf,africa,america,asia,europe,oceania,y,logit,e^L,p(x),LL,bo,-0.104056858,home_team_id
+India,6,Australia,2,2,bat,Australia won by 48 runs,2,9/28/1984,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,b1,0.88876111,6
+India,6,Australia,2,2,field,Australia won by 7 wickets (with 13 balls remaining),2,10-05-84,day match,1,1,0,1,0,0,0,0,1,0,0.054255616,1.055754435,0.513560578,-0.720642902,b2,0.014376504,6
+India,6,Australia,2,2,field,Australia won by 6 wickets (with 23 balls remaining),2,10-06-84,day match,1,1,0,1,0,0,0,0,1,0,0.054255616,1.055754435,0.513560578,-0.720642902,b3,0.657701766,6
+India,6,Australia,2,6,field,India won by 7 wickets (with 36 balls remaining),6,09-07-86,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,b4,0.85523691,6
+India,6,Australia,2,2,field,Australia won by 3 wickets (with 6 balls remaining),2,09-09-86,day match,1,1,0,1,0,0,0,0,1,0,0.054255616,1.055754435,0.513560578,-0.720642902,b5,0.485560505,6
+India,6,Australia,2,6,field,India won by 3 wickets (with 9 balls remaining),6,10-02-86,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,b6,-0.151926706,6
+India,6,Australia,2,6,bat,India won by 52 runs,6,10-05-86,day match,1,1,1,1,0,0,0,0,1,1,0.325594263,1.384853368,0.580687009,-0.543543379,b7,0.271338647,6
+India,6,Australia,2,2,field,Australia won by 7 wickets (with 9 balls remaining),2,10-07-86,day match,1,1,0,1,0,0,0,0,1,0,0.054255616,1.055754435,0.513560578,-0.720642902,b8,-0.175321326,6
+India,6,Australia,2,6,field,Australia won by 1 run,2,10-09-87,day match,1,1,1,0,0,0,0,0,1,0,0.500915589,1.650231512,0.622674474,-0.974646999,,,6
+India,6,Australia,2,2,field,India won by 56 runs,6,10/22/1987,day match,1,1,0,1,0,0,0,0,1,1,0.054255616,1.055754435,0.513560578,-0.666387286,,,6
+India,6,Australia,2,2,bat,India won by 3 wickets (with 17 balls remaining),6,10/27/1989,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,Australia,2,2,bat,Australia won by 16 runs,2,2/27/1996,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,2,bat,India won by 2 wickets (with 7 balls remaining),6,10/21/1996,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,Australia,2,2,field,India won by 5 runs,6,11-03-96,day/night match,1,0,0,1,0,0,0,0,1,1,0.206182321,1.228977252,0.551363748,-0.595360528,,,6
+India,6,Australia,2,6,bat,India won by 41 runs,6,04-01-98,day match,1,1,1,1,0,0,0,0,1,1,0.325594263,1.384853368,0.580687009,-0.543543379,,,6
+India,6,Australia,2,2,bat,India won by 6 wickets (with 33 balls remaining),6,04-07-98,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,Australia,2,6,bat,Australia won by 4 wickets (with 8 balls remaining),2,4/14/1998,day match,1,1,1,1,0,0,0,0,1,0,0.325594263,1.384853368,0.580687009,-0.869137642,,,6
+India,6,Australia,2,6,bat,India won by 60 runs,6,3/25/2001,day/night match,1,0,1,1,0,0,0,0,1,1,0.477520968,1.612073064,0.617162317,-0.482623215,,,6
+India,6,Australia,2,6,bat,Australia won by 8 wickets (with 29 balls remaining),2,3/28/2001,day match,1,1,1,1,0,0,0,0,1,0,0.325594263,1.384853368,0.580687009,-0.869137642,,,6
+India,6,Australia,2,2,field,India won by 118 runs,6,3/31/2001,day match,1,1,0,1,0,0,0,0,1,1,0.054255616,1.055754435,0.513560578,-0.666387286,,,6
+India,6,Australia,2,2,bat,Australia won by 93 runs,2,04-03-01,day match,1,1,0,0,0,0,0,0,1,0,0.229576942,1.258067661,0.557143474,-0.81450943,,,6
+India,6,Australia,2,6,bat,Australia won by 4 wickets (with 12 balls remaining),2,04-06-01,day match,1,1,1,1,0,0,0,0,1,0,0.325594263,1.384853368,0.580687009,-0.869137642,,,6
+India,6,Australia,2,6,bat,India won by 37 runs,6,10/26/2003,day/night match,1,0,1,1,0,0,0,0,1,1,0.477520968,1.612073064,0.617162317,-0.482623215,,,6
+India,6,Australia,2,2,bat,Australia won by 77 runs,2,11-01-03,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,2,bat,Australia won by 61 runs,2,11-12-03,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,2,bat,Australia won by 37 runs,2,11/18/2003,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,6,bat,Australia won by 6 wickets (with 26 balls remaining),2,10/29/2006,day/night match,1,0,1,1,0,0,0,0,1,0,0.477520968,1.612073064,0.617162317,-0.960144184,,,6
+India,6,Australia,2,6,field,Australia won by 84 runs,2,10-02-07,day match,1,1,1,0,0,0,0,0,1,0,0.500915589,1.650231512,0.622674474,-0.974646999,,,6
+India,6,Australia,2,2,bat,Australia won by 47 runs,2,10-05-07,day match,1,1,0,0,0,0,0,0,1,0,0.229576942,1.258067661,0.557143474,-0.81450943,,,6
+India,6,Australia,2,6,bat,India won by 8 runs,6,10-08-07,day match,1,1,1,1,0,0,0,0,1,1,0.325594263,1.384853368,0.580687009,-0.543543379,,,6
+India,6,Australia,2,6,bat,Australia won by 9 wickets (with 145 balls remaining),2,10-11-07,day match,1,1,1,1,0,0,0,0,1,0,0.325594263,1.384853368,0.580687009,-0.869137642,,,6
+India,6,Australia,2,2,bat,Australia won by 18 runs,2,10/14/2007,day match,1,1,0,0,0,0,0,0,1,0,0.229576942,1.258067661,0.557143474,-0.81450943,,,6
+India,6,Australia,2,2,bat,India won by 2 wickets (with 24 balls remaining),6,10/17/2007,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,Australia,2,2,bat,Australia won by 4 runs,2,10/25/2009,day match,1,1,0,0,0,0,0,0,1,0,0.229576942,1.258067661,0.557143474,-0.81450943,,,6
+India,6,Australia,2,2,field,India won by 99 runs,6,10/28/2009,day/night match,1,0,0,1,0,0,0,0,1,1,0.206182321,1.228977252,0.551363748,-0.595360528,,,6
+India,6,Australia,2,2,bat,India won by 6 wickets (with 10 balls remaining),6,10/31/2009,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,Australia,2,6,field,Australia won by 24 runs,2,11-02-09,day/night match,1,0,1,0,0,0,0,0,1,0,0.652842294,1.920993104,0.657650681,-1.071923663,,,6
+India,6,Australia,2,2,bat,Australia won by 3 runs,2,11-05-09,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,6,bat,Australia won by 6 wickets (with 49 balls remaining),2,11-08-09,day match,1,1,1,1,0,0,0,0,1,0,0.325594263,1.384853368,0.580687009,-0.869137642,,,6
+India,6,Australia,2,6,field,India won by 5 wickets (with 7 balls remaining),6,10/20/2010,day/night match,1,0,1,0,0,0,0,0,1,1,0.652842294,1.920993104,0.657650681,-0.419081369,,,6
+India,6,Australia,2,2,bat,India won by 5 wickets (with 14 balls remaining),6,3/24/2011,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,Australia,2,2,bat,Australia won by 72 runs,2,10/13/2013,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,2,bat,India won by 9 wickets (with 39 balls remaining),6,10/16/2013,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,Australia,2,2,field,Australia won by 4 wickets (with 3 balls remaining),2,10/19/2013,day/night match,1,0,0,0,0,0,0,0,1,0,0.381503647,1.464485003,0.594235713,-0.901982862,,,6
+India,6,Australia,2,6,field,India won by 6 wickets (with 3 balls remaining),6,10/30/2013,day/night match,1,0,1,0,0,0,0,0,1,1,0.652842294,1.920993104,0.657650681,-0.419081369,,,6
+India,6,Australia,2,2,field,India won by 57 runs,6,11-02-13,day/night match,1,0,0,1,0,0,0,0,1,1,0.206182321,1.228977252,0.551363748,-0.595360528,,,6
+India,6,Bangladesh,25,25,bat,India won by 9 wickets (with 79 balls remaining),6,12/25/1990,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Bangladesh,25,6,field,India won by 5 wickets (with 28 balls remaining),6,5/14/1998,day/night match,1,0,1,0,0,0,1,0,0,1,0.824983555,2.28184324,0.695293185,-0.363421673,,,6
+India,6,Bangladesh,25,25,bat,India won by 5 wickets (with 124 balls remaining),6,5/25/1998,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,England,1,1,field,England won by 5 wickets (with 13 balls remaining),1,11/25/1981,day match,1,1,0,1,0,0,0,1,0,0,0.423932021,1.527957721,0.604423764,-0.927411752,,,6
+India,6,England,1,6,field,India won by 6 wickets (with 3 balls remaining),6,12/20/1981,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,6,field,India won by 5 wickets (with 24 balls remaining),6,1/27/1982,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,1,field,England won by 4 wickets (with 10 balls remaining),1,12-05-84,day match,1,1,0,1,0,0,0,1,0,0,0.423932021,1.527957721,0.604423764,-0.927411752,,,6
+India,6,England,1,1,field,England won by 1 run (revised target),1,12/27/1984,day match,1,1,0,0,0,0,0,1,0,0,0.599253347,1.820758817,0.645485465,-1.037005933,,,6
+India,6,England,1,1,field,England won by 3 wickets (with 6 balls remaining),1,1/20/1985,day match,1,1,0,1,0,0,0,1,0,0,0.423932021,1.527957721,0.604423764,-0.927411752,,,6
+India,6,England,1,6,field,India won by 3 wickets (with 14 balls remaining),6,1/23/1985,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,6,field,England won by 7 runs,1,1/27/1985,day match,1,1,1,0,0,0,0,1,0,0,0.870591993,2.388324307,0.704868865,-1.220335495,,,6
+India,6,England,1,6,field,England won by 35 runs,1,11-05-87,day match,1,1,1,0,0,0,0,1,0,0,0.870591993,2.388324307,0.704868865,-1.220335495,,,6
+India,6,England,1,6,field,India won by 6 wickets (with 11 balls remaining),6,10/25/1989,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,1,field,England won by 4 wickets (with 0 balls remaining),1,1/18/1993,day match,1,1,0,1,0,0,0,1,0,0,0.423932021,1.527957721,0.604423764,-0.927411752,,,6
+India,6,England,1,6,field,India won by 5 wickets (with 29 balls remaining),6,1/21/1993,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,6,field,England won by 48 runs,1,2/26/1993,day match,1,1,1,0,0,0,0,1,0,0,0.870591993,2.388324307,0.704868865,-1.220335495,,,6
+India,6,England,1,1,field,England won by 6 wickets (with 2 balls remaining),1,03-01-93,day match,1,1,0,1,0,0,0,1,0,0,0.423932021,1.527957721,0.604423764,-0.927411752,,,6
+India,6,England,1,6,field,India won by 3 wickets (with 12 balls remaining),6,03-04-93,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,6,field,India won by 4 wickets (with 8 balls remaining),6,03-05-93,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,6,bat,India won by 22 runs,6,1/19/2002,day/night match,1,0,1,1,0,0,0,1,0,1,0.847197373,2.333098875,0.699978897,-0.356705091,,,6
+India,6,England,1,6,field,England won by 16 runs,1,1/22/2002,day match,1,1,1,0,0,0,0,1,0,0,0.870591993,2.388324307,0.704868865,-1.220335495,,,6
+India,6,England,1,1,bat,India won by 4 wickets (with 20 balls remaining),6,1/25/2002,day/night match,1,0,0,0,0,0,0,1,0,1,0.751180052,2.119499661,0.679435772,-0.386492572,,,6
+India,6,England,1,1,bat,India won by 8 wickets (with 56 balls remaining),6,1/28/2002,day match,1,1,0,0,0,0,0,1,0,1,0.599253347,1.820758817,0.645485465,-0.437752586,,,6
+India,6,England,1,6,field,England won by 2 runs,1,1/31/2002,day match,1,1,1,0,0,0,0,1,0,0,0.870591993,2.388324307,0.704868865,-1.220335495,,,6
+India,6,England,1,1,bat,England won by 5 runs,1,02-03-02,day/night match,1,0,0,0,0,0,0,1,0,0,0.751180052,2.119499661,0.679435772,-1.137672624,,,6
+India,6,England,1,1,field,India won by 39 runs,6,3/28/2006,day match,1,1,0,1,0,0,0,1,0,1,0.423932021,1.527957721,0.604423764,-0.503479731,,,6
+India,6,England,1,1,bat,India won by 4 wickets (with 6 balls remaining),6,3/31/2006,day match,1,1,0,0,0,0,0,1,0,1,0.599253347,1.820758817,0.645485465,-0.437752586,,,6
+India,6,England,1,6,bat,India won by 49 runs,6,04-03-06,day match,1,1,1,1,0,0,0,1,0,1,0.695270668,2.004251487,0.667138386,-0.40475778,,,6
+India,6,England,1,1,bat,India won by 4 wickets (with 16 balls remaining),6,04-06-06,day match,1,1,0,0,0,0,0,1,0,1,0.599253347,1.820758817,0.645485465,-0.437752586,,,6
+India,6,England,1,6,bat,England won by 5 wickets (with 44 balls remaining),1,04-12-06,day match,1,1,1,1,0,0,0,1,0,0,0.695270668,2.004251487,0.667138386,-1.100028448,,,6
+India,6,England,1,6,field,India won by 7 wickets (with 5 balls remaining),6,4/15/2006,day match,1,1,1,0,0,0,0,1,0,1,0.870591993,2.388324307,0.704868865,-0.349743501,,,6
+India,6,England,1,6,field,India won by 4 wickets (with 123 balls remaining),6,10/15/2006,day/night match,1,0,1,0,0,0,0,1,0,1,1.022518699,2.78018841,0.735462921,-0.307255153,,,6
+India,6,England,1,1,field,India won by 158 runs,6,11/14/2008,day match,1,1,0,1,0,0,0,1,0,1,0.423932021,1.527957721,0.604423764,-0.503479731,,,6
+India,6,England,1,6,bat,India won by 54 runs,6,11/17/2008,day match,1,1,1,1,0,0,0,1,0,1,0.695270668,2.004251487,0.667138386,-0.40475778,,,6
+India,6,England,1,1,bat,India won by 16 runs (D/L method),6,11/20/2008,day match,1,1,0,1,0,0,0,1,0,1,0.423932021,1.527957721,0.604423764,-0.503479731,,,6
+India,6,England,1,1,field,India won by 19 runs (D/L method),6,11/23/2008,day/night match,1,0,0,1,0,0,0,1,0,1,0.575858726,1.778657251,0.640113944,-0.446109081,,,6
+India,6,England,1,6,field,India won by 6 wickets (with 38 balls remaining),6,11/26/2008,day/night match,1,0,1,0,0,0,0,1,0,1,1.022518699,2.78018841,0.735462921,-0.307255153,,,6
+India,6,England,1,6,bat,India won by 126 runs,6,10/14/2011,day/night match,1,0,1,1,0,0,0,1,0,1,0.847197373,2.333098875,0.699978897,-0.356705091,,,6
+India,6,England,1,1,bat,India won by 8 wickets (with 80 balls remaining),6,10/17/2011,day/night match,1,0,0,0,0,0,0,1,0,1,0.751180052,2.119499661,0.679435772,-0.386492572,,,6
+India,6,England,1,1,bat,India won by 5 wickets (with 4 balls remaining),6,10/20/2011,day/night match,1,0,0,0,0,0,0,1,0,1,0.751180052,2.119499661,0.679435772,-0.386492572,,,6
+India,6,England,1,1,bat,India won by 6 wickets (with 59 balls remaining),6,10/23/2011,day/night match,1,0,0,0,0,0,0,1,0,1,0.751180052,2.119499661,0.679435772,-0.386492572,,,6
+India,6,England,1,1,field,India won by 95 runs,6,10/25/2011,day/night match,1,0,0,1,0,0,0,1,0,1,0.575858726,1.778657251,0.640113944,-0.446109081,,,6
+India,6,England,1,1,bat,England won by 9 runs,1,01-11-13,day/night match,1,0,0,0,0,0,0,1,0,0,0.751180052,2.119499661,0.679435772,-1.137672624,,,6
+India,6,England,1,6,bat,India won by 127 runs,6,1/15/2013,day/night match,1,0,1,1,0,0,0,1,0,1,0.847197373,2.333098875,0.699978897,-0.356705091,,,6
+India,6,England,1,6,field,India won by 7 wickets (with 131 balls remaining),6,1/19/2013,day/night match,1,0,1,0,0,0,0,1,0,1,1.022518699,2.78018841,0.735462921,-0.307255153,,,6
+India,6,England,1,6,field,India won by 5 wickets (with 15 balls remaining),6,1/23/2013,day/night match,1,0,1,0,0,0,0,1,0,1,1.022518699,2.78018841,0.735462921,-0.307255153,,,6
+India,6,England,1,1,field,England won by 7 wickets (with 16 balls remaining),1,1/27/2013,day match,1,1,0,1,0,0,0,1,0,0,0.423932021,1.527957721,0.604423764,-0.927411752,,,6
+India,6,Ireland,29,6,field,India won by 5 wickets (with 24 balls remaining),6,03-06-11,day/night match,1,0,1,0,0,0,0,1,0,1,1.022518699,2.78018841,0.735462921,-0.307255153,,,6
+India,6,Ireland,29,29,bat,India won by 8 wickets (with 79 balls remaining),6,03-10-15,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Kenya,26,6,field,India won by 7 wickets (with 49 balls remaining),6,2/18/1996,day match,1,1,1,0,1,0,0,0,0,1,0.904116193,2.469748177,0.711794646,-0.339965827,,,6
+India,6,Kenya,26,6,field,India won by 4 wickets (with 18 balls remaining),6,5/20/1998,day/night match,1,0,1,0,1,0,0,0,0,1,1.056042898,2.874971894,0.741933612,-0.298495511,,,6
+India,6,Kenya,26,26,bat,Kenya won by 69 runs,26,5/28/1998,day/night match,1,0,1,0,1,0,0,0,0,1,1.056042898,2.874971894,0.741933612,-0.298495511,,,6
+India,6,Kenya,26,26,bat,India won by 9 wickets (with 90 balls remaining),6,5/31/1998,day/night match,1,0,1,0,1,0,0,0,0,1,1.056042898,2.874971894,0.741933612,-0.298495511,,,6
+India,6,Kenya,26,26,field,India won by 94 runs,6,5/23/1999,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Kenya,26,26,bat,India won by 10 wickets (with 231 balls remaining),6,10-12-01,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Kenya,26,26,bat,Kenya won by 70 runs,26,10/17/2001,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Kenya,26,6,bat,India won by 186 runs,6,10/24/2001,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Kenya,26,26,bat,India won by 6 wickets (with 13 balls remaining),6,03-07-03,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Kenya,26,6,bat,India won by 91 runs,6,3/20/2003,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Kenya,26,26,field,India won by 98 runs,6,09-11-04,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Namibia,28,28,field,India won by 181 runs,6,2/23/2003,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Netherlands,15,6,bat,India won by 68 runs,6,02-12-03,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Netherlands,15,15,bat,India won by 5 wickets (with 81 balls remaining),6,03-09-11,day/night match,1,0,0,0,0,0,0,1,0,1,0.751180052,2.119499661,0.679435772,-0.386492572,,,6
+India,6,New Zealand,5,6,bat,New Zealand won by 4 wickets (with 7 balls remaining),5,6/14/1975,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,New Zealand,5,5,field,New Zealand won by 8 wickets (with 18 balls remaining),5,6/13/1979,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,New Zealand,5,6,bat,India won by 5 runs,6,12-09-80,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,New Zealand,5,6,bat,New Zealand won by 3 wickets (with 2 balls remaining),5,12/21/1980,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,New Zealand,5,6,bat,India won by 6 runs,6,12/23/1980,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,New Zealand,5,5,field,New Zealand won by 10 wickets (with 30 balls remaining),5,01-10-81,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,New Zealand,5,6,field,New Zealand won by 22 runs,5,1/18/1981,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,New Zealand,5,6,field,India won by 7 wickets (with 39 balls remaining),6,03-05-85,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,New Zealand,5,6,field,India won by 5 wickets (with 12 balls remaining),6,01-11-86,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,New Zealand,5,5,field,New Zealand won by 3 wickets (with 59 balls remaining),5,1/18/1986,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,New Zealand,5,5,field,New Zealand won by 5 wickets (with 1 ball remaining),5,1/23/1986,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,0
+India,6,New Zealand,5,6,field,India won by 5 wickets (with 24 balls remaining),6,1/25/1986,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,New Zealand,5,5,field,India won by 22 runs (revised target),6,02-02-86,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,New Zealand,5,6,field,India won by 3 wickets (with 14 balls remaining),6,04-10-86,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,New Zealand,5,5,field,India won by 16 runs,6,10/14/1987,day match,1,1,0,1,0,0,0,0,1,1,0.054255616,1.055754435,0.513560578,-0.666387286,,,6
+India,6,New Zealand,5,5,bat,India won by 9 wickets (with 107 balls remaining),6,10/31/1987,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,New Zealand,5,5,field,India won by 73 runs,6,3/27/1988,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,New Zealand,5,6,bat,India won by 52 runs,6,04-01-88,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,New Zealand,5,6,field,India won by 4 wickets (with 22 balls remaining),6,12-10-88,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,,,6
+India,6,New Zealand,5,5,bat,India won by 5 wickets (with 21 balls remaining),6,12-12-88,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,New Zealand,5,5,field,India won by 53 runs,6,12/15/1988,day match,1,1,0,1,0,0,0,0,1,1,0.054255616,1.055754435,0.513560578,-0.666387286,,,6
+India,6,New Zealand,5,5,bat,India won by 2 wickets (with 17 balls remaining),6,12/17/1988,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,New Zealand,5,5,bat,India won by 7 wickets (with 11 balls remaining),6,10/28/1994,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,New Zealand,5,6,bat,India won by 107 runs,6,11-03-94,day match,1,1,1,1,0,0,0,0,1,1,0.325594263,1.384853368,0.580687009,-0.543543379,,,6
+India,6,New Zealand,5,5,field,New Zealand won by 8 wickets (with 19 balls remaining),5,11/15/1995,day match,1,1,0,1,0,0,0,0,1,0,0.054255616,1.055754435,0.513560578,-0.720642902,,,6
+India,6,New Zealand,5,6,field,India won by 6 wickets (with 38 balls remaining),6,11/18/1995,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,,,6
+India,6,New Zealand,5,6,field,India won by 5 wickets (with 25 balls remaining),6,11/24/1995,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,,,6
+India,6,New Zealand,5,6,field,New Zealand won by 99 runs,5,11/26/1995,day match,1,1,1,0,0,0,0,0,1,0,0.500915589,1.650231512,0.622674474,-0.974646999,,,6
+India,6,New Zealand,5,6,field,India won by 6 wickets (with 108 balls remaining),6,11/29/1995,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,,,6
+India,6,New Zealand,5,5,bat,India won by 8 wickets (with 45 balls remaining),6,5/14/1997,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,New Zealand,5,6,bat,India won by 15 runs,6,4/17/1998,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,New Zealand,5,6,bat,New Zealand won by 4 wickets (with 6 balls remaining),5,4/20/1998,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,New Zealand,5,6,bat,New Zealand won by 5 wickets (with 10 balls remaining),5,06-12-99,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,New Zealand,5,5,bat,New Zealand won by 43 runs,5,11-05-99,day match,1,1,0,0,0,0,0,0,1,0,0.229576942,1.258067661,0.557143474,-0.81450943,,,6
+India,6,New Zealand,5,6,bat,India won by 174 runs,6,11-08-99,day match,1,1,1,1,0,0,0,0,1,1,0.325594263,1.384853368,0.580687009,-0.543543379,,,6
+India,6,New Zealand,5,6,bat,India won by 14 runs,6,11-11-99,day match,1,1,1,1,0,0,0,0,1,1,0.325594263,1.384853368,0.580687009,-0.543543379,,,6
+India,6,New Zealand,5,6,field,New Zealand won by 48 runs,5,11/14/1999,day match,1,1,1,0,0,0,0,0,1,0,0.500915589,1.650231512,0.622674474,-0.974646999,,,6
+India,6,New Zealand,5,5,bat,India won by 7 wickets (with 36 balls remaining),6,11/17/1999,day match,1,1,0,0,0,0,0,0,1,1,0.229576942,1.258067661,0.557143474,-0.584932489,,,6
+India,6,New Zealand,5,5,field,New Zealand won by 4 wickets (with 2 balls remaining),5,10/15/2000,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,New Zealand,5,5,bat,New Zealand won by 84 runs,5,7/20/2001,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,New Zealand,5,6,field,New Zealand won by 67 runs,5,7/26/2001,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,New Zealand,5,5,bat,India won by 7 wickets (with 26 balls remaining),6,08-02-01,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,New Zealand,5,6,field,India won by 7 wickets (with 56 balls remaining),6,3/14/2003,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,New Zealand,5,6,bat,New Zealand won by 4 wickets (with 15 balls remaining),5,11-06-03,day/night match,1,0,1,1,0,0,0,0,1,0,0.477520968,1.612073064,0.617162317,-0.960144184,,,6
+India,6,New Zealand,5,6,bat,India won by 145 runs,6,11/15/2003,day/night match,1,0,1,1,0,0,0,0,1,1,0.477520968,1.612073064,0.617162317,-0.482623215,,,6
+India,6,New Zealand,5,5,bat,New Zealand won by 51 runs,5,8/26/2005,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,New Zealand,5,5,bat,India won by 6 wickets (with 15 balls remaining),6,09-02-05,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,New Zealand,5,6,bat,New Zealand won by 6 wickets (with 11 balls remaining),5,09-06-05,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,New Zealand,5,5,bat,India won by 6 wickets (with 57 balls remaining),6,09-11-09,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,New Zealand,5,5,bat,New Zealand won by 200 runs,5,08-10-10,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,New Zealand,5,6,bat,India won by 105 runs,6,8/25/2010,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,New Zealand,5,5,field,India won by 40 runs,6,11/28/2010,day match,1,1,0,1,0,0,0,0,1,1,0.054255616,1.055754435,0.513560578,-0.666387286,,,6
+India,6,New Zealand,5,6,field,India won by 8 wickets (with 42 balls remaining),6,12-01-10,day/night match,1,0,1,0,0,0,0,0,1,1,0.652842294,1.920993104,0.657650681,-0.419081369,,,6
+India,6,New Zealand,5,6,field,India won by 9 wickets (with 63 balls remaining),6,12-04-10,day match,1,1,1,0,0,0,0,0,1,1,0.500915589,1.650231512,0.622674474,-0.473731411,,,6
+India,6,New Zealand,5,6,field,India won by 5 wickets (with 7 balls remaining),6,12-07-10,day/night match,1,0,1,0,0,0,0,0,1,1,0.652842294,1.920993104,0.657650681,-0.419081369,,,6
+India,6,New Zealand,5,5,bat,India won by 8 wickets (with 173 balls remaining),6,12-10-10,day/night match,1,0,0,0,0,0,0,0,1,1,0.381503647,1.464485003,0.594235713,-0.520479215,,,6
+India,6,Pakistan,7,6,field,India won by 4 wickets (with 18 balls remaining),6,09-10-83,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Pakistan,7,6,field,India won by 4 wickets (with 32 balls remaining),6,10-02-83,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Pakistan,7,6,bat,India won by 54 runs,6,4/13/1984,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Pakistan,7,7,bat,India won by 6 wickets (with 25 balls remaining),6,2/20/1985,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Pakistan,7,7,bat,India won by 8 wickets (with 17 balls remaining),6,03-10-85,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Pakistan,7,7,field,India won by 38 runs,6,3/22/1985,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 48 runs,7,11/17/1985,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 1 wicket (with 0 balls remaining),7,4/18/1986,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 3 wickets (with 9 balls remaining),7,12-05-86,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 3 wickets (with 6 balls remaining),7,1/27/1987,day match,1,1,0,1,0,0,1,0,0,0,0.226396877,1.254073279,0.5563587,-0.812738926,,,6
+India,6,Pakistan,7,7,field,Pakistan won by 2 wickets (with 3 balls remaining),7,2/18/1987,day match,1,1,0,1,0,0,1,0,0,0,0.226396877,1.254073279,0.5563587,-0.812738926,,,6
+India,6,Pakistan,7,7,field,India won (lost fewer wickets),6,3/20/1987,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Pakistan,7,6,bat,Pakistan won by 6 wickets (with 28 balls remaining),7,3/22/1987,day match,1,1,1,1,0,0,1,0,0,0,0.497735524,1.644992004,0.621927023,-0.972668042,,,6
+India,6,Pakistan,7,6,field,Pakistan won by 41 runs,7,3/24/1987,day match,1,1,1,0,0,0,1,0,0,0,0.673056849,1.96022027,0.662187301,-1.085263681,,,6
+India,6,Pakistan,7,7,field,Pakistan won by 5 wickets (with 4 balls remaining),7,3/26/1987,day match,1,1,0,1,0,0,1,0,0,0,0.226396877,1.254073279,0.5563587,-0.812738926,,,6
+India,6,Pakistan,7,7,field,Pakistan won by 8 wickets (with 50 balls remaining),7,04-10-87,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 34 runs,7,10/19/1988,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,field,India won by 4 wickets (with 26 balls remaining),6,10/31/1988,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 6 wickets (with 8 balls remaining),7,10/15/1989,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 38 runs,7,10/20/1989,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 77 runs,7,10/28/1989,day match,1,1,1,0,0,0,1,0,0,0,0.673056849,1.96022027,0.662187301,-1.085263681,,,6
+India,6,Pakistan,7,6,field,Pakistan won by 26 runs,7,4/27/1990,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,bat,India won by 60 runs,6,10/18/1991,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 4 runs,7,10/23/1991,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 72 runs,7,10/25/1991,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,bat,India won by 43 runs,6,03-04-92,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 6 wickets (with 33 balls remaining),7,4/15/1994,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 39 runs,7,4/22/1994,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 97 runs,7,04-07-95,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,Pakistan,7,6,bat,India won by 39 runs,6,03-09-96,day/night match,1,0,1,1,0,0,1,0,0,1,0.649662229,1.914893924,0.656934343,-0.4201712,,,6
+India,6,Pakistan,7,7,field,Pakistan won by 8 wickets (with 30 balls remaining) (revised target),7,04-05-96,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 38 runs,7,04-12-96,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,bat,India won by 28 runs,6,4/15/1996,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Pakistan,7,6,field,India won by 8 wickets (with 19 balls remaining),6,9/16/1996,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 2 wickets (with 1 ball remaining),7,9/17/1996,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,6,bat,India won by 55 runs,6,9/18/1996,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 97 runs,7,9/21/1996,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 52 runs,7,9/23/1996,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 35 runs,7,5/21/1997,day/night match,1,0,0,0,0,0,1,0,0,0,0.553644908,1.739582093,0.634980823,-1.007805388,,,6
+India,6,Pakistan,7,7,field,India won by 20 runs,6,9/13/1997,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Pakistan,7,7,bat,India won by 7 wickets (with 92 balls remaining),6,9/14/1997,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,Pakistan,7,7,field,India won by 34 runs,6,9/18/1997,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Pakistan,7,6,field,India won by 7 wickets (with 3 balls remaining),6,9/20/1997,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 5 wickets (with 37 balls remaining),7,9/21/1997,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 4 wickets (with 16 balls remaining),7,12/14/1997,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,Pakistan,7,7,field,India won by 18 runs,6,01-11-98,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Pakistan,7,7,bat,India won by 8 wickets (with 53 balls remaining),6,1/14/1998,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 6 wickets (with 111 balls remaining),7,1/16/1998,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,Pakistan,7,6,field,India won by 3 wickets (with 1 ball remaining),6,1/18/1998,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Pakistan,7,6,field,India won by 6 wickets (with 38 balls remaining),6,09-12-98,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 51 runs,7,9/13/1998,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 77 runs,7,9/16/1998,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 134 runs,7,9/19/1998,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 5 wickets (with 10 balls remaining),7,9/20/1998,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 143 runs,7,3/24/1999,day match,1,1,0,0,0,0,1,0,0,0,0.401718202,1.494390158,0.599100407,-0.914044274,,,6
+India,6,Pakistan,7,6,bat,Pakistan won by 7 wickets (with 30 balls remaining),7,04-01-99,day/night match,1,0,1,1,0,0,1,0,0,0,0.649662229,1.914893924,0.656934343,-1.06983343,,,6
+India,6,Pakistan,7,7,bat,Pakistan won by 123 runs,7,04-04-99,day/night match,1,0,0,0,0,0,1,0,0,0,0.553644908,1.739582093,0.634980823,-1.007805388,,,6
+India,6,Pakistan,7,7,bat,Pakistan won by 116 runs,7,04-08-99,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,7,bat,India won by 6 wickets (with 11 balls remaining),6,4/13/1999,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 8 wickets (with 132 balls remaining),7,4/16/1999,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,Pakistan,7,6,bat,India won by 47 runs,6,06-08-99,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 2 wickets (with 0 balls remaining),7,01-10-00,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 32 runs,7,1/21/2000,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,6,bat,India won by 48 runs,6,1/25/2000,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 104 runs,7,1/28/2000,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,7,bat,India won by 5 wickets (with 39 balls remaining),6,3/23/2000,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 98 runs,7,3/26/2000,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 44 runs,7,06-03-00,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,7,bat,India won by 6 wickets (with 26 balls remaining),6,03-01-03,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 59 runs,7,7/25/2004,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,6,field,Pakistan won by 66 runs (D/L method),7,8/21/2004,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 3 wickets (with 4 balls remaining),7,9/19/2004,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Pakistan,7,6,bat,Pakistan won by 6 wickets (with 6 balls remaining),7,11/13/2004,day/night match,1,0,1,1,0,0,1,0,0,0,0.649662229,1.914893924,0.656934343,-1.06983343,,,6
+India,6,Pakistan,7,6,bat,India won by 87 runs,6,04-02-05,day match,1,1,1,1,0,0,1,0,0,1,0.497735524,1.644992004,0.621927023,-0.474932519,,,6
+India,6,Pakistan,7,6,bat,India won by 58 runs,6,04-05-05,day match,1,1,1,1,0,0,1,0,0,1,0.497735524,1.644992004,0.621927023,-0.474932519,,,6
+India,6,Pakistan,7,7,bat,Pakistan won by 106 runs,7,04-09-05,day match,1,1,0,0,0,0,1,0,0,0,0.401718202,1.494390158,0.599100407,-0.914044274,,,6
+India,6,Pakistan,7,6,bat,Pakistan won by 3 wickets (with 0 balls remaining),7,04-12-05,day match,1,1,1,1,0,0,1,0,0,0,0.497735524,1.644992004,0.621927023,-0.972668042,,,6
+India,6,Pakistan,7,6,bat,Pakistan won by 5 wickets (with 47 balls remaining),7,4/15/2005,day match,1,1,1,1,0,0,1,0,0,0,0.497735524,1.644992004,0.621927023,-0.972668042,,,6
+India,6,Pakistan,7,7,bat,Pakistan won by 159 runs,7,4/17/2005,day match,1,1,0,0,0,0,1,0,0,0,0.401718202,1.494390158,0.599100407,-0.914044274,,,6
+India,6,Pakistan,7,6,bat,Pakistan won by 6 wickets (with 9 balls remaining),7,4/18/2006,night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,Pakistan,7,6,bat,India won by 51 runs,6,4/19/2006,night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Pakistan,7,7,bat,India won by 5 wickets (with 18 balls remaining),6,11-05-07,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Pakistan,7,6,bat,Pakistan won by 4 wickets (with 1 ball remaining),7,11-08-07,day/night match,1,0,1,1,0,0,1,0,0,0,0.649662229,1.914893924,0.656934343,-1.06983343,,,6
+India,6,Pakistan,7,7,field,India won by 46 runs,6,11-11-07,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Pakistan,7,7,bat,India won by 6 wickets (with 21 balls remaining),6,11/15/2007,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,Pakistan,7,6,field,Pakistan won by 31 runs,7,11/18/2007,day/night match,1,0,1,0,0,0,1,0,0,0,0.824983555,2.28184324,0.695293185,-1.188405228,,,6
+India,6,Pakistan,7,6,bat,India won by 140 runs,6,06-10-08,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 25 runs,7,6/14/2008,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,7,bat,Pakistan won by 54 runs,7,9/26/2009,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Pakistan,7,7,bat,India won by 3 wickets (with 1 ball remaining),6,6/19/2010,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Pakistan,7,6,bat,India won by 29 runs,6,3/30/2011,day/night match,1,0,1,1,0,0,1,0,0,1,0.649662229,1.914893924,0.656934343,-0.4201712,,,6
+India,6,Pakistan,7,7,bat,India won by 6 wickets (with 13 balls remaining),6,3/18/2012,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 6 wickets (with 11 balls remaining),7,12/30/2012,day match,1,1,0,0,0,0,1,0,0,0,0.401718202,1.494390158,0.599100407,-0.914044274,,,6
+India,6,Pakistan,7,6,field,Pakistan won by 85 runs,7,01-03-13,day/night match,1,0,1,0,0,0,1,0,0,0,0.824983555,2.28184324,0.695293185,-1.188405228,,,6
+India,6,Pakistan,7,6,bat,India won by 10 runs,6,01-06-13,day/night match,1,0,1,1,0,0,1,0,0,1,0.649662229,1.914893924,0.656934343,-0.4201712,,,6
+India,6,Pakistan,7,6,field,India won by 8 wickets (with 17 balls remaining) (D/L method),6,6/15/2013,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Pakistan,7,7,field,Pakistan won by 1 wicket (with 2 balls remaining),7,03-02-14,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,0
+India,6,Pakistan,7,6,bat,India won by 76 runs,6,2/15/2015,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,South Africa,3,6,field,India won by 3 wickets (with 38 balls remaining),6,11-10-91,day match,1,1,1,0,1,0,0,0,0,1,0.904116193,2.469748177,0.711794646,-0.339965827,,,6
+India,6,South Africa,3,3,field,India won by 38 runs,6,11-12-91,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,South Africa,3,6,bat,South Africa won by 8 wickets (with 20 balls remaining),3,11/14/1991,day/night match,1,0,1,1,1,0,0,0,0,0,0.880721573,2.412639973,0.706971726,-1.227486177,,,6
+India,6,South Africa,3,3,field,South Africa won by 6 wickets (with 5 balls remaining),3,3/15/1992,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,South Africa,3,3,field,India won by 43 runs,6,11/22/1993,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,South Africa,3,6,bat,India won by 2 runs,6,11/24/1993,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,South Africa,3,3,bat,South Africa won by 14 runs,3,2/18/1995,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,South Africa,3,3,bat,South Africa won by 80 runs,3,4/14/1996,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,South Africa,3,6,bat,South Africa won by 5 wickets (with 17 balls remaining),3,4/17/1996,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,South Africa,3,3,bat,South Africa won by 38 runs,3,4/19/1996,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,South Africa,3,3,bat,South Africa won by 47 runs,3,10/17/1996,day/night match,1,0,0,0,1,0,0,0,0,0,0.784704251,2.191758635,0.686693101,-1.160572061,,,6
+India,6,South Africa,3,6,field,South Africa won by 27 runs,3,10/23/1996,day match,1,1,1,0,1,0,0,0,0,0,0.904116193,2.469748177,0.711794646,-1.24408202,,,6
+India,6,South Africa,3,6,bat,South Africa won by 5 wickets (with 8 balls remaining),3,10/29/1996,day match,1,1,1,1,1,0,0,0,0,0,0.728794867,2.072581366,0.674540759,-1.122518044,,,6
+India,6,South Africa,3,6,bat,India won by 35 runs,6,11-06-96,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,South Africa,3,6,bat,India won by 74 runs,6,12/14/1996,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,South Africa,3,6,bat,South Africa won by 4 wickets (with 16 balls remaining),3,5/15/1999,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,South Africa,3,3,bat,India won by 8 wickets (with 164 balls remaining),6,9/26/1999,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,South Africa,3,6,field,South Africa won by 26 runs,3,10-03-99,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,South Africa,3,3,bat,India won by 3 wickets (with 2 balls remaining),6,03-09-00,day match,1,1,0,0,1,0,0,0,0,1,0.632777546,1.882832978,0.653118995,-0.425995938,,,6
+India,6,South Africa,3,3,bat,India won by 6 wickets (with 17 balls remaining),6,03-12-00,day match,1,1,0,0,1,0,0,0,0,1,0.632777546,1.882832978,0.653118995,-0.425995938,,,6
+India,6,South Africa,3,3,field,South Africa won by 2 wickets (with 6 balls remaining),3,3/15/2000,day match,1,1,0,1,1,0,0,0,0,0,0.45745622,1.58004957,0.612410548,-0.947808612,,,6
+India,6,South Africa,3,3,bat,India won by 4 wickets (with 1 ball remaining),6,3/17/2000,day match,1,1,0,0,1,0,0,0,0,1,0.632777546,1.882832978,0.653118995,-0.425995938,,,6
+India,6,South Africa,3,6,field,South Africa won by 10 runs,3,3/19/2000,day match,1,1,1,0,1,0,0,0,0,0,0.904116193,2.469748177,0.711794646,-1.24408202,,,6
+India,6,South Africa,3,6,bat,South Africa won by 10 wickets (with 124 balls remaining),3,3/22/2000,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,South Africa,3,6,bat,South Africa won by 6 wickets (with 44 balls remaining),3,3/27/2000,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,South Africa,3,6,bat,India won by 95 runs,6,10/13/2000,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,South Africa,3,6,bat,India won by 10 runs,6,9/25/2002,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,South Africa,3,6,bat,India won by 153 runs,6,4/13/2003,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,South Africa,3,6,bat,South Africa won by 5 wickets (with 8 balls remaining),3,4/18/2003,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,South Africa,3,3,field,South Africa won by 5 wickets (with 7 balls remaining),3,11/16/2005,day match,1,1,0,1,1,0,0,0,0,0,0.45745622,1.58004957,0.612410548,-0.947808612,,,6
+India,6,South Africa,3,6,field,India won by 6 wickets (with 86 balls remaining),6,11/19/2005,day/night match,1,0,1,0,1,0,0,0,0,1,1.056042898,2.874971894,0.741933612,-0.298495511,,,6
+India,6,South Africa,3,3,field,South Africa won by 10 wickets (with 85 balls remaining),3,11/25/2005,day/night match,1,0,0,1,1,0,0,0,0,0,0.609382926,1.839296066,0.647800026,-1.043556157,,,6
+India,6,South Africa,3,6,field,India won by 5 wickets (with 15 balls remaining),6,11/28/2005,day/night match,1,0,1,0,1,0,0,0,0,1,1.056042898,2.874971894,0.741933612,-0.298495511,,,6
+India,6,South Africa,3,3,field,South Africa won by 4 wickets (with 3 balls remaining),3,6/26/2007,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,South Africa,3,6,field,India won by 6 wickets (with 5 balls remaining),6,6/29/2007,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,South Africa,3,6,field,India won by 6 wickets (with 4 balls remaining),6,07-01-07,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,South Africa,3,3,field,India won by 1 run,6,2/21/2010,day/night match,1,0,0,1,1,0,0,0,0,1,0.609382926,1.839296066,0.647800026,-0.434173232,,,6
+India,6,South Africa,3,6,bat,India won by 153 runs,6,2/24/2010,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,South Africa,3,3,bat,South Africa won by 90 runs,3,2/27/2010,day/night match,1,0,0,0,1,0,0,0,0,0,0.784704251,2.191758635,0.686693101,-1.160572061,,,6
+India,6,South Africa,3,6,bat,South Africa won by 3 wickets (with 2 balls remaining),3,03-12-11,day/night match,1,0,1,1,1,0,0,0,0,0,0.880721573,2.412639973,0.706971726,-1.227486177,,,6
+India,6,South Africa,3,3,field,India won by 26 runs,6,06-06-13,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,South Africa,3,6,bat,India won by 130 runs,6,2/22/2015,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,South Africa,3,3,bat,South Africa won by 5 runs,3,10-11-15,day match,1,1,0,0,1,0,0,0,0,0,0.632777546,1.882832978,0.653118995,-1.058773484,,,6
+India,6,South Africa,3,6,bat,India won by 22 runs,6,10/14/2015,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,South Africa,3,3,bat,South Africa won by 18 runs,3,10/18/2015,day/night match,1,0,0,0,1,0,0,0,0,0,0.784704251,2.191758635,0.686693101,-1.160572061,,,6
+India,6,South Africa,3,6,bat,India won by 35 runs,6,10/22/2015,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,South Africa,3,3,bat,South Africa won by 214 runs,3,10/25/2015,day/night match,1,0,0,0,1,0,0,0,0,0,0.784704251,2.191758635,0.686693101,-1.160572061,,,6
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 47 runs,8,6/16/1979,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Sri Lanka,8,8,field,India won by 78 runs,6,09-12-82,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 55 balls remaining),6,9/15/1982,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 64 balls remaining),6,9/26/1982,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Sri Lanka,8,6,field,India won by 10 wickets (with 170 balls remaining),6,04-08-84,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,6,field,India won by 3 wickets (with 5 balls remaining),6,4/13/1986,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 21 balls remaining),6,11/27/1986,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 117 runs,8,12/24/1986,day match,1,1,1,0,0,0,1,0,0,0,0.673056849,1.96022027,0.662187301,-1.085263681,,,6
+India,6,Sri Lanka,8,6,field,India won by 8 wickets (with 111 balls remaining),6,01-11-87,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,6,field,India won by 6 wickets (with 15 balls remaining),6,1/13/1987,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,8,field,India won by 94 runs,6,1/15/1987,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,8,field,India won by 10 runs,6,1/17/1987,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,8,field,India won by 18 runs,6,3/25/1988,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 17 runs,8,10/29/1988,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Sri Lanka,8,6,field,India won by 6 wickets (with 47 balls remaining),6,11-04-88,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,6,bat,India won by 6 runs,6,10/22/1989,day match,1,1,1,1,0,0,1,0,0,1,0.497735524,1.644992004,0.621927023,-0.474932519,,,6
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 3 wickets (with 4 balls remaining),8,4/25/1990,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Sri Lanka,8,8,field,India won by 19 runs,6,12-01-90,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,6,field,India won by 6 wickets (with 21 balls remaining),6,12-05-90,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 7 wickets (with 103 balls remaining),8,12-08-90,day match,1,1,1,1,0,0,1,0,0,0,0.497735524,1.644992004,0.621927023,-0.972668042,,,6
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 36 runs,8,12/28/1990,day match,1,1,0,0,0,0,1,0,0,0,0.401718202,1.494390158,0.599100407,-0.914044274,,,6
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 17 balls remaining),6,01-04-91,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 32 balls remaining),6,11-07-93,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,8,field,India won by 8 runs,6,2/15/1994,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 10 balls remaining),6,2/18/1994,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 4 wickets (with 1 ball remaining) (revised target),8,2/20/1994,day match,1,1,0,1,0,0,1,0,0,0,0.226396877,1.254073279,0.5563587,-0.812738926,,,6
+India,6,Sri Lanka,8,8,bat,India won by 8 wickets (with 101 balls remaining),6,04-09-95,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,Sri Lanka,8,6,field,India won by 8 wickets (with 49 balls remaining),6,4/14/1995,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 6 wickets (with 8 balls remaining),8,03-02-96,day match,1,1,0,1,0,0,1,0,0,0,0.226396877,1.254073279,0.5563587,-0.812738926,,,6
+India,6,Sri Lanka,8,6,bat,India won by 12 runs,6,04-03-96,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 5 wickets (with 55 balls remaining),8,5/17/1997,day/night match,1,0,1,1,0,0,1,0,0,0,0.649662229,1.914893924,0.656934343,-1.06983343,,,6
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 31 balls remaining),6,12/22/1997,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 5 wickets (with 10 balls remaining),8,12/28/1997,day match,1,1,1,1,0,0,1,0,0,0,0.497735524,1.644992004,0.621927023,-0.972668042,,,6
+India,6,Sri Lanka,8,6,field,India won by 3 wickets (with 5 balls remaining),6,11-06-98,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Sri Lanka,8,8,field,India won by 81 runs,6,11-09-98,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,0
+India,6,Sri Lanka,8,8,field,India won by 80 runs,6,3/22/1999,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,8,field,India won by 51 runs,6,3/30/1999,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,8,field,India won by 157 runs,6,5/26/1999,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 71 runs,8,06-01-00,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 5 wickets (with 37 balls remaining),8,10/20/2000,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 68 runs,8,10/27/2000,day/night match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,0
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 245 runs,8,10/29/2000,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Sri Lanka,8,8,bat,India won by 4 wickets (with 28 balls remaining),6,6/30/2002,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,Sri Lanka,8,6,field,India won by 4 wickets (with 11 balls remaining),6,07-06-02,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,6,bat,India won by 63 runs,6,07-11-02,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Sri Lanka,8,8,field,India won by 183 runs,6,03-10-03,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Sri Lanka,8,6,bat,India won by 152 runs,6,10/25/2005,day match,1,1,1,1,0,0,1,0,0,1,0.497735524,1.644992004,0.621927023,-0.474932519,,,6
+India,6,Sri Lanka,8,6,field,India won by 8 wickets (with 178 balls remaining),6,10/28/2005,day/night match,1,0,1,0,0,0,1,0,0,1,0.824983555,2.28184324,0.695293185,-0.363421673,,,6
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 23 balls remaining),6,10/31/2005,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Sri Lanka,8,6,field,India won by 4 wickets (with 26 balls remaining),6,11-03-05,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 5 wickets (with 14 balls remaining),8,11-06-05,day/night match,1,0,0,1,0,0,1,0,0,0,0.378323582,1.459835243,0.593468708,-0.900094373,,,6
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 91 balls remaining),6,11-09-05,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,8,bat,India won by 5 wickets (with 63 balls remaining),6,11-12-05,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 5 runs,8,02-11-07,day match,1,1,1,0,0,0,1,0,0,0,0.673056849,1.96022027,0.662187301,-1.085263681,,,6
+India,6,Sri Lanka,8,8,bat,India won by 5 wickets (with 21 balls remaining),6,2/14/2007,day match,1,1,0,0,0,0,1,0,0,1,0.401718202,1.494390158,0.599100407,-0.512326071,,,6
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 36 balls remaining),6,2/17/2007,day match,1,1,1,0,0,0,1,0,0,1,0.673056849,1.96022027,0.662187301,-0.412206832,,,6
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 69 runs,8,3/23/2007,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 8 wickets (with 12 balls remaining) (D/L method),8,02-12-08,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Sri Lanka,8,8,bat,India won by 2 wickets (with 5 balls remaining),6,2/19/2008,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 106 balls remaining),6,2/26/2008,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 19 balls remaining),6,07-03-08,night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 100 runs,8,07-06-08,night match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,0
+India,6,Sri Lanka,8,8,field,India won by 3 runs,6,12/15/2009,day match,1,1,0,1,0,0,1,0,0,1,0.226396877,1.254073279,0.5563587,-0.586342049,,,6
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 3 wickets (with 5 balls remaining),8,12/18/2009,day/night match,1,0,1,1,0,0,1,0,0,0,0.649662229,1.914893924,0.656934343,-1.06983343,,,6
+India,6,Sri Lanka,8,8,bat,India won by 7 wickets (with 45 balls remaining),6,12/21/2009,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,Sri Lanka,8,8,bat,India won by 7 wickets (with 11 balls remaining),6,12/24/2009,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 5 wickets (with 12 balls remaining),8,01-05-10,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,0
+India,6,Sri Lanka,8,8,bat,India won by 8 wickets (with 104 balls remaining),6,01-10-10,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 4 wickets (with 9 balls remaining),8,1/13/2010,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,0
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 39 balls remaining),6,5/30/2010,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 6 wickets (with 10 balls remaining),8,06-05-10,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 10 balls remaining),6,04-02-11,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,Sri Lanka,8,8,bat,India won by 4 wickets (with 20 balls remaining),6,02-08-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 51 runs,8,2/21/2012,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,0
+India,6,Sri Lanka,8,6,field,India won by 7 wickets (with 80 balls remaining),6,2/28/2012,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Sri Lanka,8,8,field,India won by 50 runs,6,3/13/2012,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,0
+India,6,Sri Lanka,8,6,field,India won by 8 wickets (with 90 balls remaining),6,6/20/2013,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 161 runs,8,07-02-13,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Sri Lanka,8,8,field,India won by 81 runs (D/L method),6,07-09-13,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Sri Lanka,8,6,field,India won by 1 wicket (with 2 balls remaining),6,07-11-13,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 2 wickets (with 4 balls remaining),8,2/28/2014,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,0
+India,6,Sri Lanka,8,8,field,India won by 169 runs,6,11-02-14,day/night match,1,0,0,1,0,0,1,0,0,1,0.378323582,1.459835243,0.593468708,-0.521770791,,,6
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 33 balls remaining),6,11-06-14,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 35 balls remaining),6,11-09-14,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,Sri Lanka,8,6,bat,India won by 153 runs,6,11/13/2014,day/night match,1,0,1,1,0,0,1,0,0,1,0.649662229,1.914893924,0.656934343,-0.4201712,,,6
+India,6,Sri Lanka,8,8,bat,India won by 3 wickets (with 8 balls remaining),6,11/16/2014,day/night match,1,0,0,0,0,0,1,0,0,1,0.553644908,1.739582093,0.634980823,-0.45416048,,,6
+India,6,United Arab Emirates,27,6,bat,India won by 116 runs,6,7/16/2004,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,United Arab Emirates,27,27,bat,India won by 9 wickets (with 187 balls remaining),6,2/28/2015,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,West Indies,4,4,field,West Indies won by 9 wickets (with 51 balls remaining),4,06-09-79,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,West Indies,4,4,field,India won by 34 runs,6,06-09-83,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,West Indies,4,4,bat,West Indies won by 66 runs,4,6/15/1983,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,West Indies,4,4,field,India won by 43 runs,6,6/25/1983,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,West Indies,4,4,field,West Indies won by 28 runs (revised target),4,10/13/1983,day match,1,1,0,0,0,1,0,0,0,0,-0.24160706,0.785364718,0.439890354,-0.579622718,,,6
+India,6,West Indies,4,6,bat,West Indies won by 4 wickets (with 7 balls remaining),4,11-09-83,day match,1,1,1,1,0,1,0,0,0,0,-0.145589739,0.864512306,0.46366672,-0.622999521,,,6
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 10 balls remaining),4,12-01-83,day match,1,1,1,1,0,1,0,0,0,0,-0.145589739,0.864512306,0.46366672,-0.622999521,,,6
+India,6,West Indies,4,6,field,West Indies won by 104 runs,4,12-07-83,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,4,field,West Indies won by 6 wickets (with 14 balls remaining),4,12/17/1983,day match,1,1,0,1,0,1,0,0,0,0,-0.416928386,0.659068117,0.397251994,-0.506256069,,,6
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 21 balls remaining),4,11/22/1985,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,West Indies,4,6,field,West Indies won by 33 runs,4,11/30/1986,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,West Indies,4,4,bat,West Indies won by 10 runs,4,12-08-87,day match,1,1,0,0,0,1,0,0,0,0,-0.24160706,0.785364718,0.439890354,-0.579622718,,,6
+India,6,West Indies,4,6,field,West Indies won by 52 runs,4,12/23/1987,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,6,bat,India won by 56 runs,6,01-02-88,day match,1,1,1,1,0,1,0,0,0,1,-0.145589739,0.864512306,0.46366672,-0.76858926,,,6
+India,6,West Indies,4,6,bat,West Indies won by 6 wickets (with 17 balls remaining),4,01-05-88,day match,1,1,1,1,0,1,0,0,0,0,-0.145589739,0.864512306,0.46366672,-0.622999521,,,6
+India,6,West Indies,4,6,field,West Indies won by 2 runs,4,01-07-88,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,4,field,West Indies won by 4 wickets (with 5 balls remaining),4,1/19/1988,day match,1,1,0,1,0,1,0,0,0,0,-0.416928386,0.659068117,0.397251994,-0.506256069,,,6
+India,6,West Indies,4,6,field,West Indies won by 73 runs,4,1/22/1988,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,4,field,West Indies won by 9 wickets (with 13 balls remaining),4,1/25/1988,day match,1,1,0,1,0,1,0,0,0,0,-0.416928386,0.659068117,0.397251994,-0.506256069,,,6
+India,6,West Indies,4,4,field,India won by 23 runs,6,10/16/1988,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 60 balls remaining),4,10/21/1988,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,West Indies,4,6,bat,West Indies won by 5 wickets (with 13 balls remaining),4,10/13/1989,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,West Indies,4,4,field,India won by 37 runs,6,10/16/1989,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,West Indies,4,6,field,West Indies won by 20 runs,4,10/23/1989,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 47 balls remaining),4,10/30/1989,day match,1,1,1,1,0,1,0,0,0,0,-0.145589739,0.864512306,0.46366672,-0.622999521,,,6
+India,6,West Indies,4,4,field,India won by 19 runs,6,10/19/1991,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,West Indies,4,6,field,India won by 7 wickets (with 75 balls remaining),6,10/22/1991,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,West Indies,4,6,bat,India won by 10 runs,6,12/14/1991,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,West Indies,4,6,bat,West Indies won by 6 wickets (with 9 balls remaining),4,01-11-92,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,West Indies,4,4,bat,India won by 5 wickets (with 20 balls remaining),6,1/16/1992,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,West Indies,4,6,bat,West Indies won by 5 wickets (with 34 balls remaining) (revised target),4,03-10-92,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,0
+India,6,West Indies,4,4,bat,West Indies won by 69 runs (revised target),4,11/16/1993,day match,1,1,0,0,0,1,0,0,0,0,-0.24160706,0.785364718,0.439890354,-0.579622718,,,6
+India,6,West Indies,4,4,field,India won by 102 runs,6,11/27/1993,day/night match,1,0,0,1,0,1,0,0,0,1,-0.26500168,0.767204661,0.434134584,-0.834400691,,,6
+India,6,West Indies,4,4,bat,West Indies won by 96 runs,4,10/17/1994,day match,1,1,0,0,0,1,0,0,0,0,-0.24160706,0.785364718,0.439890354,-0.579622718,,,6
+India,6,West Indies,4,6,field,India won by 8 runs (revised target),6,10/20/1994,day match,1,1,1,1,0,1,0,0,0,1,-0.145589739,0.864512306,0.46366672,-0.76858926,,,6
+India,6,West Indies,4,6,field,India won by 4 wickets (with 10 balls remaining),6,10/23/1994,day match,1,1,1,0,0,1,0,0,0,1,0.029731587,1.030177983,0.507432349,-0.678391879,,,6
+India,6,West Indies,4,6,field,West Indies won by 46 runs,4,10/30/1994,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,4,field,India won by 72 runs,6,11-05-94,day/night match,1,0,0,1,0,1,0,0,0,1,-0.26500168,0.767204661,0.434134584,-0.834400691,,,6
+India,6,West Indies,4,4,field,India won by 4 runs,6,11-07-94,day match,1,1,0,1,0,1,0,0,0,1,-0.416928386,0.659068117,0.397251994,-0.923184455,,,6
+India,6,West Indies,4,4,bat,India won by 8 wickets (with 4 balls remaining),6,11-09-94,day match,1,1,0,0,0,1,0,0,0,1,-0.24160706,0.785364718,0.439890354,-0.821229778,,,6
+India,6,West Indies,4,6,bat,India won by 5 runs,6,11-11-94,day match,1,1,1,1,0,1,0,0,0,1,-0.145589739,0.864512306,0.46366672,-0.76858926,,,6
+India,6,West Indies,4,4,bat,India won by 5 wickets (with 62 balls remaining),6,2/21/1996,day/night match,1,0,0,0,0,1,0,0,0,1,-0.089680355,0.914223366,0.477594926,-0.738992342,,,6
+India,6,West Indies,4,6,field,West Indies won by 41 runs,4,12/16/1997,day/night match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,0
+India,6,West Indies,4,6,bat,West Indies won by 6 wickets (with 18 balls remaining),4,10/31/1998,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,West Indies,4,4,bat,West Indies won by 42 runs,4,09-05-99,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,West Indies,4,4,field,West Indies won by 4 wickets (with 14 balls remaining),4,09-08-99,day match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,0
+India,6,West Indies,4,6,field,India won by 8 wickets (with 75 balls remaining),6,09-11-99,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,West Indies,4,4,bat,West Indies won by 70 runs,4,09-12-99,day match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,0
+India,6,West Indies,4,4,field,India won by 88 runs,6,9/14/1999,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,West Indies,4,6,field,India won by 6 wickets (with 37 balls remaining),6,6/30/2001,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,West Indies,4,6,field,India won by 6 wickets (with 11 balls remaining),6,07-04-01,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,West Indies,4,6,field,West Indies won by 16 runs,4,07-07-01,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,West Indies,4,6,bat,West Indies won by 4 wickets (with 0 balls remaining),4,11-06-02,day match,1,1,1,1,0,1,0,0,0,0,-0.145589739,0.864512306,0.46366672,-0.622999521,,,6
+India,6,West Indies,4,4,field,West Indies won by 7 wickets (with 4 balls remaining) (D/L method),4,11-09-02,day match,1,1,0,1,0,1,0,0,0,0,-0.416928386,0.659068117,0.397251994,-0.506256069,,,6
+India,6,West Indies,4,6,field,India won by 81 runs (D/L method),6,11-12-02,day match,1,1,1,1,0,1,0,0,0,1,-0.145589739,0.864512306,0.46366672,-0.76858926,,,6
+India,6,West Indies,4,6,field,India won by 5 wickets (with 14 balls remaining),6,11/15/2002,day/night match,1,0,1,0,0,1,0,0,0,1,0.181658292,1.199204346,0.545290095,-0.606437342,,,6
+India,6,West Indies,4,4,field,West Indies won by 5 wickets (with 7 balls remaining),4,11/18/2002,day match,1,1,0,1,0,1,0,0,0,0,-0.416928386,0.659068117,0.397251994,-0.506256069,,,6
+India,6,West Indies,4,6,field,India won by 3 wickets (with 22 balls remaining),6,11/21/2002,day match,1,1,1,0,0,1,0,0,0,1,0.029731587,1.030177983,0.507432349,-0.678391879,,,6
+India,6,West Indies,4,6,field,West Indies won by 135 runs,4,11/24/2002,day match,1,1,1,0,0,1,0,0,0,0,0.029731587,1.030177983,0.507432349,-0.708123466,,,6
+India,6,West Indies,4,4,bat,India won by 6 wickets (with 84 balls remaining),6,7/31/2005,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,West Indies,4,6,bat,India won by 7 runs,6,08-07-05,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,West Indies,4,6,bat,West Indies won by 29 runs (D/L method),4,9/14/2006,day/night match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,0
+India,6,West Indies,4,6,bat,India won by 16 runs,6,9/20/2006,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,West Indies,4,4,field,West Indies won by 3 wickets (with 2 balls remaining),4,10/26/2006,day/night match,1,0,0,1,0,1,0,0,0,0,-0.26500168,0.767204661,0.434134584,-0.56939901,,,6
+India,6,West Indies,4,4,field,India won by 14 runs,6,1/21/2007,day match,1,1,0,1,0,1,0,0,0,1,-0.416928386,0.659068117,0.397251994,-0.923184455,,,6
+India,6,West Indies,4,6,bat,India won by 20 runs,6,1/24/2007,day/night match,1,0,1,1,0,1,0,0,0,1,0.006336966,1.006357088,0.501584236,-0.689983717,,,6
+India,6,West Indies,4,4,field,West Indies won by 3 wickets (with 38 balls remaining),4,1/27/2007,day/night match,1,0,0,1,0,1,0,0,0,0,-0.26500168,0.767204661,0.434134584,-0.56939901,,,6
+India,6,West Indies,4,4,field,India won by 160 runs,6,1/31/2007,day match,1,1,0,1,0,1,0,0,0,1,-0.416928386,0.659068117,0.397251994,-0.923184455,,,6
+India,6,West Indies,4,6,field,India won by 7 wickets (with 107 balls remaining),6,9/30/2009,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,West Indies,4,6,bat,India won by 80 runs,6,3/20/2011,day/night match,1,0,1,1,0,1,0,0,0,1,0.006336966,1.006357088,0.501584236,-0.689983717,,,6
+India,6,West Indies,4,6,field,India won by 1 wicket (with 7 balls remaining),6,11/29/2011,day/night match,1,0,1,0,0,1,0,0,0,1,0.181658292,1.199204346,0.545290095,-0.606437342,,,6
+India,6,West Indies,4,6,field,India won by 5 wickets (with 11 balls remaining),6,12-02-11,day/night match,1,0,1,0,0,1,0,0,0,1,0.181658292,1.199204346,0.545290095,-0.606437342,,,6
+India,6,West Indies,4,6,field,West Indies won by 16 runs,4,12-05-11,day/night match,1,0,1,0,0,1,0,0,0,0,0.181658292,1.199204346,0.545290095,-0.788095634,,,6
+India,6,West Indies,4,6,bat,India won by 153 runs,6,12-08-11,day/night match,1,0,1,1,0,1,0,0,0,1,0.006336966,1.006357088,0.501584236,-0.689983717,,,6
+India,6,West Indies,4,6,bat,India won by 34 runs,6,12-11-11,day/night match,1,0,1,1,0,1,0,0,0,1,0.006336966,1.006357088,0.501584236,-0.689983717,,,6
+India,6,West Indies,4,6,field,India won by 8 wickets (with 65 balls remaining),6,06-11-13,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,West Indies,4,4,bat,India won by 6 wickets (with 88 balls remaining),6,11/21/2013,day/night match,1,0,0,0,1,0,0,0,0,1,0.784704251,2.191758635,0.686693101,-0.37586781,,,6
+India,6,West Indies,4,4,field,West Indies won by 2 wickets (with 3 balls remaining),4,11/24/2013,day/night match,1,0,0,0,1,0,0,0,0,0,0.784704251,2.191758635,0.686693101,-1.160572061,,,6
+India,6,West Indies,4,6,field,India won by 5 wickets (with 23 balls remaining),6,11/27/2013,day match,1,1,1,0,1,0,0,0,0,1,0.904116193,2.469748177,0.711794646,-0.339965827,,,6
+India,6,West Indies,4,6,field,West Indies won by 124 runs,4,10-08-14,day/night match,1,0,1,0,0,1,0,0,0,0,0.181658292,1.199204346,0.545290095,-0.788095634,,,6
+India,6,West Indies,4,6,bat,India won by 48 runs,6,10-11-14,day/night match,1,0,1,1,0,1,0,0,0,1,0.006336966,1.006357088,0.501584236,-0.689983717,,,6
+India,6,West Indies,4,4,field,India won by 59 runs,6,10/17/2014,day/night match,1,0,0,1,0,1,0,0,0,1,-0.26500168,0.767204661,0.434134584,-0.834400691,,,6
+India,6,West Indies,4,4,bat,India won by 4 wickets (with 65 balls remaining),6,03-06-15,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Zimbabwe,9,6,field,India won by 5 wickets (with 135 balls remaining),6,06-11-83,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Zimbabwe,9,6,bat,India won by 31 runs,6,6/18/1983,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Zimbabwe,9,9,bat,India won by 8 wickets (with 133 balls remaining),6,10/17/1987,day match,1,1,0,0,1,0,0,0,0,1,0.632777546,1.882832978,0.653118995,-0.425995938,,,6
+India,6,Zimbabwe,9,6,field,India won by 7 wickets (with 48 balls remaining),6,10/26/1987,day match,1,1,1,0,1,0,0,0,0,1,0.904116193,2.469748177,0.711794646,-0.339965827,,,6
+India,6,Zimbabwe,9,6,bat,India won by 55 runs (revised target),6,03-07-92,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,0
+India,6,Zimbabwe,9,9,field,India won by 67 runs,6,3/19/1993,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,Zimbabwe,9,6,field,India won by 7 wickets (with 3 balls remaining),6,3/22/1993,day match,1,1,1,0,1,0,0,0,0,1,0.904116193,2.469748177,0.711794646,-0.339965827,,,6
+India,6,Zimbabwe,9,6,field,India won by 8 wickets (with 27 balls remaining),6,3/25/1993,day match,1,1,1,0,1,0,0,0,0,1,0.904116193,2.469748177,0.711794646,-0.339965827,,,6
+India,6,Zimbabwe,9,9,field,India won by 40 runs,6,03-06-96,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,Zimbabwe,9,6,field,India won by 7 wickets (with 37 balls remaining),6,09-01-96,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Zimbabwe,9,6,bat,Zimbabwe won by 3 wickets (with 2 balls remaining) (revised target),9,02-07-97,day/night match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,0
+India,6,Zimbabwe,9,6,field,India won by 6 wickets (with 64 balls remaining),6,02-09-97,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,0
+India,6,Zimbabwe,9,9,field,India won by 13 runs,6,04-05-98,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,Zimbabwe,9,9,field,India won by 32 runs,6,04-09-98,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,Zimbabwe,9,6,field,India won by 7 wickets (with 56 balls remaining),6,11-08-98,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Zimbabwe,9,6,field,Zimbabwe won by 13 runs,9,11-11-98,day/night match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,0
+India,6,Zimbabwe,9,6,field,India won by 10 wickets (with 120 balls remaining),6,11/13/1998,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Zimbabwe,9,6,field,Zimbabwe won by 3 runs,9,5/19/1999,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,0
+India,6,Zimbabwe,9,9,field,India won by 115 runs,6,09-04-99,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Zimbabwe,9,9,field,India won by 107 runs,6,10-01-99,day match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,0
+India,6,Zimbabwe,9,9,field,India won by 13 runs,6,10/22/2000,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Zimbabwe,9,6,field,India won by 3 wickets (with 9 balls remaining),6,10/26/2000,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Zimbabwe,9,9,bat,India won by 3 wickets (with 10 balls remaining),6,12-02-00,day match,1,1,0,0,1,0,0,0,0,1,0.632777546,1.882832978,0.653118995,-0.425995938,,,6
+India,6,Zimbabwe,9,6,bat,India won by 61 runs,6,12-05-00,day match,1,1,1,1,1,0,0,0,0,1,0.728794867,2.072581366,0.674540759,-0.393723177,,,6
+India,6,Zimbabwe,9,6,bat,Zimbabwe won by 1 wicket (with 1 ball remaining),9,12-08-00,day match,1,1,1,1,1,0,0,0,0,0,0.728794867,2.072581366,0.674540759,-1.122518044,,,6
+India,6,Zimbabwe,9,9,bat,India won by 9 wickets (with 150 balls remaining),6,12-11-00,day match,1,1,0,0,1,0,0,0,0,1,0.632777546,1.882832978,0.653118995,-0.425995938,,,6
+India,6,Zimbabwe,9,9,field,India won by 39 runs,6,12/14/2000,day match,1,1,0,1,1,0,0,0,0,1,0.45745622,1.58004957,0.612410548,-0.490352392,,,6
+India,6,Zimbabwe,9,6,bat,Zimbabwe won by 1 wicket (with 2 balls remaining),9,03-07-02,day match,1,1,1,1,1,0,0,0,0,0,0.728794867,2.072581366,0.674540759,-1.122518044,,,6
+India,6,Zimbabwe,9,6,bat,India won by 64 runs,6,03-10-02,day/night match,1,0,1,1,1,0,0,0,0,1,0.880721573,2.412639973,0.706971726,-0.346764605,,,6
+India,6,Zimbabwe,9,6,bat,Zimbabwe won by 6 wickets (with 34 balls remaining),9,3/13/2002,day match,1,1,1,1,1,0,0,0,0,0,0.728794867,2.072581366,0.674540759,-1.122518044,,,6
+India,6,Zimbabwe,9,9,bat,India won by 5 wickets (with 11 balls remaining),6,3/16/2002,day/night match,1,0,0,0,1,0,0,0,0,1,0.784704251,2.191758635,0.686693101,-0.37586781,,,6
+India,6,Zimbabwe,9,6,bat,India won by 101 runs,6,3/19/2002,day match,1,1,1,1,1,0,0,0,0,1,0.728794867,2.072581366,0.674540759,-0.393723177,,,6
+India,6,Zimbabwe,9,6,bat,India won by 14 runs,6,9/14/2002,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Zimbabwe,9,9,bat,India won by 7 wickets (with 74 balls remaining),6,1/14/2004,day match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,0
+India,6,Zimbabwe,9,6,bat,India won by 24 runs,6,1/20/2004,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Zimbabwe,9,6,bat,India won by 3 runs,6,1/24/2004,day/night match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,0
+India,6,Zimbabwe,9,9,bat,India won by 4 wickets (with 117 balls remaining),6,02-03-04,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,0
+India,6,Zimbabwe,9,6,field,India won by 6 wickets (with 8 balls remaining),6,3/14/2015,day/night match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,0
+India,6,Australia,2,2,field,India won by 66 runs,6,06-12-80,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Australia,2,2,field,Australia won by 9 wickets (with 40 balls remaining),2,18-12-80,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Australia,2,2,field,Australia won by 9 wickets (with 174 balls remaining),2,08-01-81,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Australia,2,2,field,Australia won by 7 wickets (with 16 balls remaining),2,11-01-81,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Australia,2,6,field,Australia won by 27 runs,2,15-01-81,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Australia,2,2,bat,Australia won by 162 runs,2,13-06-83,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,Australia,2,6,bat,India won by 118 runs,6,20-06-83,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,Australia,2,6,field,India won by 8 wickets (with 83 balls remaining),6,03-03-85,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Australia,2,6,field,India won by 3 wickets (with 64 balls remaining),6,29-03-85,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Australia,2,2,field,Australia won by 4 wickets (with 28 balls remaining),2,12-01-86,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Australia,2,6,field,India won by 8 wickets (with 28 balls remaining),6,16-01-86,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,Australia,2,6,field,Australia won by 100 runs,2,21-01-86,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Australia,2,6,field,Australia won by 36 runs,2,26-01-86,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Australia,2,2,bat,India won by 6 wickets (with 7 balls remaining),6,31-01-86,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Australia,2,6,field,Australia won by 11 runs,2,05-02-86,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Australia,2,2,field,Australia won by 7 wickets (with 16 balls remaining),2,09-02-86,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Australia,2,6,field,India won by 7 wickets (with 48 balls remaining),6,05-04-87,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Australia,2,2,bat,Australia won by 18 runs,2,03-03-90,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,Australia,2,6,bat,Australia won by 7 wickets (with 12 balls remaining),2,08-03-90,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,bat,India won by 107 runs,6,08-12-91,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,Australia,2,6,bat,Australia won by 8 wickets (with 9 balls remaining),2,10-12-91,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,bat,Australia won by 6 wickets (with 55 balls remaining),2,15-12-91,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,bat,Australia won by 9 wickets (with 64 balls remaining),2,14-01-92,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Australia,2,2,bat,Australia won by 88 runs,2,18-01-92,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,Australia won by 6 runs,2,20-01-92,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,Australia won by 1 run (revised target),2,01-03-92,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,Australia,2,2,bat,India won by 7 wickets (with 26 balls remaining),6,19-04-94,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,Australia,2,6,bat,India won by 31 runs,6,09-09-94,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Australia,2,2,bat,India won by 5 wickets (with 13 balls remaining),6,22-02-95,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,Australia,2,2,field,Australia won by 3 wickets (with 3 balls remaining),2,06-09-96,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Australia,2,2,bat,Australia won by 58 runs,2,19-04-98,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,Australia won by 26 runs (revised target),2,22-04-98,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,field,India won by 6 wickets (with 9 balls remaining),6,24-04-98,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,Australia,2,2,field,India won by 44 runs,6,28-10-98,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,
+India,6,Australia,2,6,field,Australia won by 77 runs,2,04-06-99,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Australia,2,6,bat,Australia won by 8 wickets (with 53 balls remaining) (D/L method),2,23-08-99,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,field,Australia won by 41 runs,2,28-08-99,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Australia,2,2,bat,Australia won by 28 runs,2,12-01-00,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,bat,Australia won by 5 wickets (with 139 balls remaining),2,14-01-00,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Australia,2,2,bat,Australia won by 152 runs,2,26-01-00,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,bat,Australia won by 4 wickets (with 3 balls remaining),2,30-01-00,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,2,field,India won by 20 runs,6,07-10-00,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Australia,2,6,bat,Australia won by 9 wickets (with 166 balls remaining),2,15-02-03,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,field,Australia won by 125 runs,2,23-03-03,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Australia,2,2,bat,Australia won by 18 runs,2,09-01-04,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,bat,India won by 19 runs,6,18-01-04,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Australia,2,6,bat,Australia won by 2 wickets (with 1 ball remaining) (D/L method),2,22-01-04,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Australia,2,6,bat,Australia won by 5 wickets (with 108 balls remaining),2,01-02-04,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,bat,Australia won by 7 wickets (with 59 balls remaining),2,06-02-04,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Australia,2,2,bat,Australia won by 208 runs,2,08-02-04,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,Australia won by 18 runs,2,22-09-06,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,India won by 5 wickets (with 25 balls remaining),6,10-02-08,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Australia,2,2,bat,Australia won by 50 runs,2,17-02-08,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,Australia won by 18 runs,2,24-02-08,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,India won by 6 wickets (with 25 balls remaining),6,02-03-08,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Australia,2,6,bat,India won by 9 runs,6,04-03-08,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Australia,2,6,field,Australia won by 65 runs (D/L method),2,05-02-12,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Australia,2,2,bat,India won by 4 wickets (with 2 balls remaining),6,12-02-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Australia,2,2,bat,Australia won by 110 runs,2,19-02-12,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,2,bat,Australia won by 87 runs,2,26-02-12,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,bat,Australia won by 4 wickets (with 6 balls remaining),2,18-01-15,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Australia,2,2,bat,Australia won by 95 runs,2,26-03-15,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,bat,Australia won by 5 wickets (with 4 balls remaining),2,12-01-16,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Australia,2,6,bat,Australia won by 7 wickets (with 6 balls remaining),2,15-01-16,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Australia,2,2,field,Australia won by 3 wickets (with 7 balls remaining),2,17-01-16,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Australia,2,2,bat,Australia won by 25 runs,2,20-01-16,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Australia,2,6,field,India won by 6 wickets (with 2 balls remaining),6,23-01-16,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,England,1,1,field,England won by 4 wickets (with 23 balls remaining),1,13-07-74,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,England,1,6,bat,England won by 6 wickets (with 37 balls remaining),1,15-07-74,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,England,1,1,bat,England won by 202 runs,1,07-06-75,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,England,1,1,field,England won by 9 wickets (with 29 balls remaining),1,02-06-82,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,England,1,6,field,England won by 114 runs,1,04-06-82,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,England,1,1,bat,India won by 6 wickets (with 32 balls remaining),6,22-06-83,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,England,1,1,field,India won by 86 runs,6,26-02-85,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,
+India,6,England,1,6,field,India won by 9 wickets (with 46 balls remaining),6,24-05-86,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,England,1,1,field,England won by 5 wickets (with 7 balls remaining),1,26-05-86,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,England,1,6,field,India won by 3 wickets (with 7 balls remaining),6,02-04-87,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,England,1,6,field,India won by 6 wickets (with 12 balls remaining),6,18-07-90,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,England,1,6,field,India won by 5 wickets (with 12 balls remaining),6,20-07-90,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,England,1,1,bat,England won by 9 runs,1,22-02-92,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,England,1,1,field,England won by 6 wickets (with 15 balls remaining),1,25-05-96,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,England,1,6,bat,England won by 4 wickets (with 7 balls remaining),1,26-05-96,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,England,1,6,field,England won by 7 runs,1,11-12-97,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,England,1,6,bat,India won by 20 runs,6,09-04-99,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,England,1,6,bat,India won by 9 runs,6,11-04-99,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,England,1,1,field,India won by 63 runs,6,29-05-99,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,England,1,1,bat,India won by 6 wickets (with 7 balls remaining),6,29-06-02,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,England,1,6,field,England won by 64 runs,1,09-07-02,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,England,1,1,bat,India won by 2 wickets (with 3 balls remaining),6,13-07-02,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,England,1,1,bat,India won by 8 wickets (with 63 balls remaining),6,22-09-02,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,England,1,6,bat,India won by 82 runs,6,26-02-03,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,England,1,1,field,England won by 7 wickets (with 106 balls remaining),1,01-09-04,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,England,1,6,field,England won by 70 runs,1,03-09-04,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,England,1,6,bat,India won by 23 runs,6,05-09-04,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,England,1,6,field,England won by 104 runs,1,21-08-07,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,England,1,6,bat,India won by 9 runs,6,24-08-07,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,England,1,6,field,England won by 42 runs,1,27-08-07,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,England,1,6,bat,England won by 3 wickets (with 12 balls remaining),1,30-08-07,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,England,1,1,field,India won by 38 runs (D/L method),6,02-09-07,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,England,1,1,bat,India won by 2 wickets (with 2 balls remaining),6,05-09-07,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,England,1,6,bat,England won by 7 wickets (with 82 balls remaining),1,08-09-07,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,England,1,1,field,England won by 7 wickets (with 5 balls remaining),1,06-09-11,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,England,1,1,field,England won by 3 wickets (with 7 balls remaining) (D/L method),1,09-09-11,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,England,1,1,field,England won by 6 wickets (with 10 balls remaining) (D/L method),1,16-09-11,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,England,1,1,field,India won by 5 runs,6,23-06-13,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,England,1,1,field,India won by 133 runs (D/L method),6,27-08-14,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,England,1,6,field,India won by 6 wickets (with 42 balls remaining),6,30-08-14,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,England,1,6,field,India won by 9 wickets (with 117 balls remaining),6,02-09-14,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,England,1,6,field,England won by 41 runs,1,05-09-14,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,England,1,6,bat,England won by 9 wickets (with 135 balls remaining),1,20-01-15,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,England,1,1,field,England won by 3 wickets (with 19 balls remaining),1,30-01-15,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,New Zealand,5,6,bat,New Zealand won by 9 wickets (with 37 balls remaining),5,21-02-76,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,New Zealand,5,5,bat,New Zealand won by 80 runs,5,22-02-76,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,New Zealand,5,6,field,New Zealand won by 78 runs,5,14-02-81,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,New Zealand,5,6,field,New Zealand won by 57 runs,5,15-02-81,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,New Zealand,5,6,field,New Zealand won by 108 runs,5,01-03-90,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,New Zealand,5,6,bat,India won by 1 run,6,06-03-90,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,New Zealand,5,5,field,New Zealand won by 4 wickets (with 17 balls remaining),5,12-03-92,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,New Zealand,5,6,field,New Zealand won by 28 runs,5,25-03-94,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,New Zealand,5,5,bat,India won by 7 wickets (with 160 balls remaining),6,27-03-94,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,New Zealand,5,5,field,India won by 12 runs,6,30-03-94,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,New Zealand,5,6,bat,New Zealand won by 6 wickets (with 1 ball remaining),5,02-04-94,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,New Zealand,5,5,field,New Zealand won by 4 wickets (with 106 balls remaining),5,16-02-95,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,New Zealand,5,6,bat,New Zealand won by 5 wickets (with 6 balls remaining) (D/L method),5,09-01-99,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,New Zealand,5,6,field,India won by 2 wickets (with 1 ball remaining),6,12-01-99,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,New Zealand,5,6,field,India won by 5 wickets (with 37 balls remaining),6,16-01-99,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,New Zealand,5,6,field,New Zealand won by 70 runs,5,19-01-99,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,New Zealand,5,5,field,New Zealand won by 3 wickets (with 74 balls remaining),5,26-12-02,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,New Zealand,5,6,field,New Zealand won by 35 runs,5,29-12-02,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,New Zealand,5,6,bat,New Zealand won by 5 wickets (with 139 balls remaining),5,01-01-03,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,New Zealand,5,5,field,New Zealand won by 7 wickets (with 146 balls remaining),5,04-01-03,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,New Zealand,5,5,bat,India won by 2 wickets (with 40 balls remaining),6,08-01-03,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,New Zealand,5,6,field,India won by 1 wicket (with 1 ball remaining),6,11-01-03,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,New Zealand,5,5,field,New Zealand won by 6 wickets (with 128 balls remaining),5,14-01-03,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,New Zealand,5,6,bat,India won by 53 runs (D/L method),6,03-03-09,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,New Zealand,5,5,field,India won by 58 runs,6,08-03-09,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,
+India,6,New Zealand,5,5,bat,India won by 84 runs (D/L method),6,11-03-09,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,
+India,6,New Zealand,5,6,bat,New Zealand won by 8 wickets (with 118 balls remaining),5,14-03-09,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,New Zealand,5,6,field,New Zealand won by 24 runs,5,19-01-14,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,New Zealand,5,6,field,New Zealand won by 15 runs (D/L method),5,22-01-14,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,New Zealand,5,6,bat,New Zealand won by 7 wickets (with 11 balls remaining),5,28-01-14,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,New Zealand,5,6,field,New Zealand won by 87 runs,5,31-01-14,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Pakistan,7,6,bat,India won by 4 runs,6,01-10-78,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,Pakistan,7,7,field,Pakistan won by 8 wickets (with 139 balls remaining),7,13-10-78,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Pakistan,7,6,field,Pakistan won by 14 runs,7,03-12-82,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Pakistan,7,7,bat,Pakistan won by 37 runs,7,17-12-82,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,Pakistan,7,7,bat,India won by 18 runs (revised target),6,31-12-82,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Pakistan,7,6,bat,Pakistan won by 8 wickets (with 30 balls remaining),7,21-01-83,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Pakistan,7,6,field,Pakistan won by 46 runs,7,12-10-84,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Pakistan,7,6,field,Pakistan won by 7 runs,7,18-12-89,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Pakistan,7,6,field,Pakistan won by 38 runs,7,22-12-89,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Pakistan,7,6,bat,Pakistan won by 5 wickets (with 33 balls remaining),7,28-09-97,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Pakistan,7,7,bat,India won by 4 wickets (with 3 balls remaining),6,30-09-97,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,Pakistan,7,7,field,Pakistan won by 9 wickets (with 136 balls remaining),7,02-10-97,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Pakistan,7,7,field,India won by 5 runs,6,13-03-04,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Pakistan,7,7,bat,Pakistan won by 12 runs,7,16-03-04,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Pakistan,7,7,field,Pakistan won by 4 wickets (with 16 balls remaining),7,19-03-04,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Pakistan,7,7,bat,India won by 5 wickets (with 30 balls remaining),6,21-03-04,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Pakistan,7,7,field,India won by 40 runs,6,24-03-04,day/night match,0,0,0,1,0,0,0,0,0,1,-0.279378184,0.756253846,0.430606229,-0.842561228,,,
+India,6,Pakistan,7,7,field,Pakistan won by 7 runs (D/L method),7,06-02-06,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,Pakistan,7,7,bat,India won by 7 wickets (with 41 balls remaining),6,11-02-06,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,Pakistan,7,6,field,India won by 5 wickets (with 14 balls remaining),6,13-02-06,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,Pakistan,7,6,field,India won by 5 wickets (with 105 balls remaining),6,16-02-06,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,Pakistan,7,6,field,India won by 8 wickets (with 19 balls remaining),6,19-02-06,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Pakistan,7,7,bat,India won by 6 wickets (with 47 balls remaining),6,26-06-08,night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Pakistan,7,6,bat,Pakistan won by 8 wickets (with 27 balls remaining),7,02-07-08,night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,South Africa,3,6,bat,South Africa won by 6 wickets (with 3 balls remaining),3,07-12-92,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,South Africa,3,6,bat,South Africa won by 6 wickets (with 20 balls remaining),3,09-12-92,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,South Africa,3,6,field,India won by 4 wickets (with 5 balls remaining),6,11-12-92,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,South Africa,3,3,field,South Africa won by 6 wickets (with 9 balls remaining),3,13-12-92,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,South Africa,3,3,field,South Africa won by 8 wickets (with 16 balls remaining),3,15-12-92,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,South Africa,3,6,field,South Africa won by 39 runs,3,17-12-92,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,South Africa,3,6,field,India won by 5 wickets (with 16 balls remaining),6,19-12-92,day/night match,0,1,0,0,0,0,0,0,0,1,-0.255983564,0.774154693,0.436351292,-0.829307644,,,
+India,6,South Africa,3,3,bat,South Africa won by 39 runs,3,23-01-97,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,6,bat,South Africa won by 6 wickets (with 29 balls remaining),3,02-02-97,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,South Africa,3,6,bat,South Africa won by 6 wickets (with 4 balls remaining),3,04-02-97,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,South Africa,3,3,bat,South Africa won by 17 runs (revised target),3,13-02-97,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,3,field,South Africa won by 6 wickets (with 10 balls remaining),3,05-10-01,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,South Africa,3,6,bat,India won by 41 runs,6,10-10-01,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,South Africa,3,3,bat,South Africa won by 46 runs,3,19-10-01,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,3,field,South Africa won by 6 wickets (with 47 balls remaining),3,26-10-01,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,South Africa,3,3,bat,South Africa won by 157 runs,3,22-11-06,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,3,bat,South Africa won by 106 runs,3,26-11-06,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,South Africa,3,3,bat,South Africa won by 80 runs,3,29-11-06,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,3,field,South Africa won by 9 wickets (with 112 balls remaining),3,03-12-06,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,South Africa,3,3,bat,South Africa won by 135 runs,3,12-01-11,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,6,bat,India won by 1 run,6,15-01-11,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,South Africa,3,3,bat,India won by 2 wickets (with 10 balls remaining),6,18-01-11,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,South Africa,3,3,bat,South Africa won by 48 runs (D/L method),3,21-01-11,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,South Africa,3,6,field,South Africa won by 33 runs (D/L method),3,23-01-11,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,South Africa,3,6,field,South Africa won by 141 runs,3,05-12-13,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,South Africa,3,6,field,South Africa won by 134 runs,3,08-12-13,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Sri Lanka,8,6,field,India won by 2 wickets (with 3 balls remaining),6,25-08-85,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 14 runs,8,21-09-85,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Sri Lanka,8,8,field,India won by 1 run,6,25-07-93,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 8 runs,8,12-08-93,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 4 wickets (with 3 balls remaining),8,14-08-93,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 7 wickets (with 4 balls remaining),8,05-09-94,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Sri Lanka,8,6,field,India won by 6 wickets (with 8 balls remaining),6,17-09-94,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 9 wickets (with 34 balls remaining),8,28-08-96,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 6 wickets (with 32 balls remaining),8,18-07-97,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 8 wickets (with 79 balls remaining),8,26-07-97,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 2 runs,8,17-08-97,day/night match,0,1,0,0,0,0,0,0,0,0,-0.255983564,0.774154693,0.436351292,-0.57332408,,,
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 7 wickets (with 49 balls remaining),8,20-08-97,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 9 runs,8,24-08-97,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Sri Lanka,8,8,bat,India won by 8 wickets (with 38 balls remaining),6,19-06-98,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Sri Lanka,8,6,field,Sri Lanka won by 8 runs,8,01-07-98,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Sri Lanka,8,6,bat,India won by 6 runs,6,07-07-98,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 7 wickets (with 20 balls remaining),8,25-08-99,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Sri Lanka,8,8,field,India won by 23 runs (D/L method),6,29-08-99,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 6 runs,8,22-07-01,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,8,bat,India won by 7 wickets (with 26 balls remaining),6,28-07-01,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,Sri Lanka,8,8,field,India won by 46 runs,6,01-08-01,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 121 runs,8,05-08-01,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 12 runs,8,18-07-04,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,6,bat,India won by 4 runs,6,27-07-04,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 25 runs,8,01-08-04,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 3 wickets (with 10 balls remaining),8,30-07-05,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 4 wickets (with 12 balls remaining),8,03-08-05,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 18 runs,8,09-08-05,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 8 wickets (with 91 balls remaining),8,18-08-08,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Sri Lanka,8,6,field,India won by 3 wickets (with 62 balls remaining),6,20-08-08,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Sri Lanka,8,6,bat,India won by 33 runs,6,24-08-08,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,6,bat,India won by 46 runs,6,27-08-08,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 112 runs (D/L method),8,29-08-08,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,6,field,India won by 6 wickets (with 11 balls remaining),6,28-01-09,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Sri Lanka,8,6,bat,India won by 15 runs,6,31-01-09,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,6,bat,India won by 147 runs,6,03-02-09,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,6,bat,India won by 67 runs,6,05-02-09,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 68 runs,8,08-02-09,day match,0,0,1,0,0,0,0,0,0,0,0.167281789,1.182087317,0.541723197,-0.780281904,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 139 runs,8,12-09-09,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,6,bat,India won by 46 runs,6,14-09-09,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,8,field,Sri Lanka won by 7 wickets (with 75 balls remaining),8,22-06-10,day/night match,0,0,0,1,0,0,0,0,0,0,-0.279378184,0.756253846,0.430606229,-0.563183044,,,
+India,6,Sri Lanka,8,6,bat,India won by 81 runs,6,24-06-10,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 93 balls remaining),6,16-08-10,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 8 wickets (with 209 balls remaining),8,22-08-10,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Sri Lanka,8,8,bat,Sri Lanka won by 74 runs,8,28-08-10,day/night match,0,0,0,0,0,0,0,0,0,0,-0.104056858,0.901174057,0.474009233,-0.64247162,,,
+India,6,Sri Lanka,8,6,bat,India won by 21 runs,6,21-07-12,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,Sri Lanka,8,6,bat,Sri Lanka won by 9 wickets (with 181 balls remaining),8,24-07-12,day/night match,0,1,0,1,0,0,0,0,0,0,-0.431304889,0.649660806,0.393814779,-0.500569695,,,
+India,6,Sri Lanka,8,8,bat,India won by 5 wickets (with 2 balls remaining),6,28-07-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Sri Lanka,8,8,bat,India won by 6 wickets (with 46 balls remaining),6,31-07-12,day/night match,0,0,0,0,0,0,0,0,0,1,-0.104056858,0.901174057,0.474009233,-0.746528478,,,
+India,6,Sri Lanka,8,6,bat,India won by 20 runs,6,04-08-12,day/night match,0,1,0,1,0,0,0,0,0,1,-0.431304889,0.649660806,0.393814779,-0.931874584,,,
+India,6,West Indies,4,6,field,West Indies won by 52 runs,4,09-03-83,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,4,field,India won by 27 runs,6,29-03-83,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,West Indies,4,4,field,West Indies won by 7 wickets (with 58 balls remaining),4,07-04-83,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,West Indies,4,6,field,West Indies won by 50 runs,4,07-03-89,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,4,field,West Indies won by 6 wickets (with 68 balls remaining),4,09-03-89,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,West Indies,4,6,bat,West Indies won by 6 wickets (with 16 balls remaining),4,11-03-89,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 40 balls remaining),4,18-03-89,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,West Indies,4,6,field,West Indies won by 101 runs,4,21-03-89,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 31 balls remaining) (revised target),4,26-04-97,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,West Indies,4,6,field,India won by 10 wickets (with 101 balls remaining) (revised target),6,27-04-97,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,West Indies,4,6,field,West Indies won by 18 runs,4,30-04-97,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,4,field,West Indies won by 10 wickets (with 32 balls remaining),4,03-05-97,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,West Indies,4,6,field,India won by 7 wickets (with 31 balls remaining),6,29-05-02,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,West Indies,4,6,bat,West Indies won by 7 wickets (with 17 balls remaining),4,01-06-02,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,West Indies,4,6,bat,India won by 56 runs (D/L method),6,02-06-02,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,West Indies,4,6,field,India won by 5 wickets (with 1 ball remaining),6,18-05-06,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,West Indies,4,6,field,West Indies won by 1 run,4,20-05-06,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,6,bat,West Indies won by 4 wickets (with 1 ball remaining),4,23-05-06,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,West Indies,4,4,field,West Indies won by 6 wickets (with 36 balls remaining),4,26-05-06,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,West Indies,4,6,field,West Indies won by 19 runs,4,28-05-06,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,6,bat,India won by 20 runs,6,26-06-09,day match,0,1,1,1,0,0,0,0,0,1,-0.159966243,0.852172556,0.460093501,-0.776325547,,,
+India,6,West Indies,4,6,bat,West Indies won by 8 wickets (with 95 balls remaining),4,28-06-09,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,West Indies,4,6,field,India won by 6 wickets (with 1 ball remaining) (D/L method),6,03-07-09,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,West Indies,4,4,bat,India won by 4 wickets (with 31 balls remaining),6,06-06-11,day match,0,0,1,0,0,0,0,0,0,1,0.167281789,1.182087317,0.541723197,-0.613000115,,,
+India,6,West Indies,4,6,field,India won by 7 wickets (with 20 balls remaining) (D/L method),6,08-06-11,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,West Indies,4,6,field,India won by 3 wickets (with 22 balls remaining),6,11-06-11,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,West Indies,4,6,field,West Indies won by 103 runs,4,13-06-11,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,West Indies,4,4,field,West Indies won by 7 wickets (with 8 balls remaining),4,16-06-11,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,West Indies,4,4,field,West Indies won by 1 wicket (with 14 balls remaining),4,30-06-13,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,West Indies,4,4,field,India won by 102 runs (D/L method),6,05-07-13,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,9,field,India won by 30 runs,6,25-10-92,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,9,field,Zimbabwe won by 8 wickets (with 73 balls remaining) (revised target),9,15-02-97,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Zimbabwe,9,6,field,India won by 8 wickets (with 46 balls remaining),6,26-09-98,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,6,field,India won by 8 wickets (with 19 balls remaining),6,27-09-98,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,6,field,Zimbabwe won by 37 runs,9,30-09-98,day match,0,1,1,0,0,0,0,0,0,0,0.015355083,1.015473578,0.503838695,-0.700854194,,,
+India,6,Zimbabwe,9,6,field,India won by 9 wickets (with 142 balls remaining),6,24-06-01,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,6,field,India won by 4 wickets (with 4 balls remaining),6,27-06-01,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,9,field,India won by 83 runs,6,19-02-03,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,9,field,India won by 161 runs,6,29-08-05,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,6,field,India won by 4 wickets (with 11 balls remaining),6,04-09-05,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,6,bat,Zimbabwe won by 6 wickets (with 10 balls remaining),9,28-05-10,day match,0,1,1,1,0,0,0,0,0,0,-0.159966243,0.852172556,0.460093501,-0.616359304,,,
+India,6,Zimbabwe,9,9,field,Zimbabwe won by 7 wickets (with 70 balls remaining),9,03-06-10,day match,0,0,1,1,0,0,0,0,0,0,-0.008039537,0.991992694,0.497990127,-0.689135491,,,
+India,6,Zimbabwe,9,6,field,India won by 6 wickets (with 31 balls remaining),6,24-07-13,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,9,field,India won by 58 runs,6,26-07-13,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,6,field,India won by 7 wickets (with 87 balls remaining),6,28-07-13,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,6,field,India won by 9 wickets (with 115 balls remaining),6,01-08-13,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,6,field,India won by 7 wickets (with 96 balls remaining),6,03-08-13,day match,0,1,1,0,0,0,0,0,0,1,0.015355083,1.015473578,0.503838695,-0.685499111,,,
+India,6,Zimbabwe,9,9,field,India won by 4 runs,6,10-07-15,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,9,field,India won by 62 runs,6,12-07-15,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+India,6,Zimbabwe,9,9,field,India won by 83 runs,6,14-07-15,day match,0,0,1,1,0,0,0,0,0,1,-0.008039537,0.991992694,0.497990127,-0.697175028,,,
+,,,,,,,,,,,,,,,,,,,,,,,-548.3614316,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
